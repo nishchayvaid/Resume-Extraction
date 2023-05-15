@@ -1,4 +1,4 @@
-# Career-Recommendation-System
+# Resume-Extraction
 
 ## Installation
 * Clone URL : https://github.com/nishchayvaid/Career-Recommendation-System.git
