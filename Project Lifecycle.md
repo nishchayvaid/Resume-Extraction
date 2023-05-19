@@ -74,3 +74,21 @@ Problem statement, business understanding and objectives document.
 **Deliverables:** Final project report, presentation slides.
 
 *Note:* The tasks and durations provided are approximate and can be adjusted based on the specific requirements and resources available for the project.
+
+## Summary
+| Week | Tasks                                                | Deliverables                                       |
+|------|------------------------------------------------------|----------------------------------------------------|
+| 7    | Problem Understanding and Data Understanding             | Problem statement and objectives document           |
+|      |                                                      | Dataset of resumes                                 |
+| 8    | Data Preprocessing                                      | Preprocessed dataset of resumes                       |
+| 9    | Named Entity Recognition (NER)                       | Trained NER model                                  |
+|      |                                                      | Preprocessed dataset split (train, validation, test)|
+| 10    | Performance Evaluation & Reporting                   | Model evaluation results                           |
+|      |                                                      | Performance evaluation report                      |
+| 11    | Model Deployment                                     | Flask application code                             |
+|      |                                                      | Deployed web application                           |
+| 12    | Model Inference and Refinement                       | Refined Flask application                          |
+|      |                                                      | Updated NER model (if applicable)                   |
+| 13    | Final Reporting and Submission                       | Final project report                               |
+|      |                                                      | Presentation slides                                |
+|      |                                                      | Submitted project report, code, and presentation   |
