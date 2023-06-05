@@ -1,0 +1,4696 @@
+,Field,Value
+0,Companies worked at,Oracle
+1,Companies worked at,Oracle
+2,Companies worked at,Oracle
+3,Skills,"Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle
+PL-SQL programming, Sales Force with APEX.
+Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer,
+PL/SQL Developer, WinSCP, Putty
+Web Technologies: JavaScript, XML, HTML, Webservice
+
+Operating Systems: Linux, Windows
+Version control system SVN & Git-Hub
+Databases: Oracle
+Middleware: Web logic, OC4J
+Product FLEXCUBE: Oracle FLEXCUBE Versions 10.x, 11.x and 12.x"
+4,Companies worked at,Oracle
+5,Skills,"APEX. (Less than 1 year), Data Structures (3 years), FLEXCUBE (5 years), Oracle (5 years),
+Algorithms (3 years)
+"
+6,Graduation Year,2012
+7,College Name,Adithya Institute of Technology
+8,Degree,B.E in Computer Science Engineering
+9,Graduation Year,2012
+10,Companies worked at,Oracle
+11,Designation,Associate Consultant
+12,Companies worked at,Oracle
+13,Designation,Staff Consultant
+14,Companies worked at,Oracle
+15,Designation,"Senior Consultant
+"
+16,Companies worked at,Cloud Lending Solutions
+17,Designation,"Senior Software Engineer
+"
+18,Companies worked at,Oracle
+19,Companies worked at,Oracle
+20,Companies worked at,Cloud Lending Solutions
+21,Email Address,"indeed.com/r/Govardhana-K/
+b2de315d95905b68
+"
+22,Location,Bengaluru
+23,Designation,"Senior Software Engineer
+"
+24,Name,Govardhana K
+25,Companies worked at,Oracle
+26,Companies worked at,Oracle
+27,Companies worked at,Oracle
+28,Skills,"Functional Testing, Blue Prism, Qtp
+"
+29,College Name,"
+Osmania University
+"
+30,Degree,B.Sc. in Computer Science
+31,College Name,"
+Osmania University
+"
+32,Degree,MCA
+33,Companies worked at,Oracle
+34,Designation,QA Analyst
+35,Location,Hyderabad
+36,Companies worked at,Oracle
+37,Designation,Test Analyst
+38,Location,Hyderabad
+39,Location,Hyderabad
+40,Location,Hyderabad
+41,Location,Hyderabad
+42,Companies worked at,Oracle
+43,Designation,Test Analyst
+44,Companies worked at,Oracle
+45,Designation,QA Analyst
+46,Designation,Manual and Automation testing.
+47,Years of Experience,6 Yrs
+48,Location,Hyderabad
+49,Location,Hyderabad
+50,Companies worked at,Oracle
+51,Designation,Test Analyst
+52,Name,Harini Komaravelli
+53,Skills," Languages & Technologies: Python, R, SQL, NoSQL, Predictive Modelling,
+Market Basket Analysis, Sentimental Analysis, Clustering, Bash
+Scripting (Preliminary), Socket Programming, Java (Preliminary)
+
+• Tools: R Studio, Jupyter, GIT, Sublime, MATLAB, Linux, KVM, Virtual Box,
+Open VZ, Oracle SQL Developer, MySQL, MongoDB, Excel"
+54,Email Address,indeed.com/r/Hartej-Kathuria/04181c5962a4af19
+55,Skills,"Python (2 years), SQL. (1 year), NOSQL (1 year), R (2 years), Machine Learning (2 years)
+"
+56,Graduation Year,2016
+57,College Name,"Manipal University
+"
+58,Degree,B. Tech in Electrical and Electronics in Embedded Systems
+59,Graduation Year,2018
+60,College Name,"Manipal University
+"
+61,Degree,"
+Statistics and Probability"
+62,Location,Bengaluru
+63,Designation,Data Analyst Intern
+64,Email Address,indeed.com/r/Hartej-Kathuria/04181c5962a4af19
+65,Location,Bengaluru
+66,Companies worked at,"Oracle Retail
+"
+67,Designation,Data Analyst Intern
+68,Name,Hartej Kathuria
+69,Skills,"Languages: Core Java
+Front end/GUI Tools programming: Adobe Flex, GWT
+Database: Oracle 10g
+IDE: Eclipse, FlexBuilder
+FrameWorks: Spring(Basics), MVC frame work
+Operating System: Windows, Linux, Unix"
+70,Graduation Year, 2009
+71,College Name,University College Of Engineering
+72,Degree,Bachelor of Technology in Computer Science
+73,Graduation Year,"2011
+"
+74,College Name,Birla Institute Of Technology 
+75,Companies worked at,Oracle Corporation
+76,Companies worked at,Oracle Corporation
+77,Designation,Associate Consultant
+78,Graduation Year,"2011
+"
+79,Companies worked at,Oracle Corporation
+80,Designation,Associate Consultant
+81,Companies worked at,"State Street
+"
+82,Companies worked at,Oracle Corporation
+83,Designation,Associate Consultant
+84,Email Address," indeed.com/r/Ijas-
+Nizamuddin/6748d77f76f94eed"
+85,Location,Irinchayam B.O
+86,Companies worked at,"State Street
+"
+87,Designation,Associate Consultant
+88,Name,Ijas Nizamuddin
+89,Skills,"rogramming Languages :C/C++, angular, java, java servlet, HTML, java script, MySQL, css, jsff.
+
+Operating Systems Linux, Windows, Android
+
+ORM Eclipse Link, Hibernate
+
+Framework & tools :ADF, Eclipse, Android Studio, Git, Selenium, Code blocks, Net beans, R studio,
+Tortoise SVN."
+90,Skills,"JAVA (1 year), CSS (1 year), HTML (1 year), MYSQL (1 year), JAVASCRIPT (Less than 1 year),
+Angularjs (1 year), Oracle Pl/Sql
+"
+91,Graduation Year, 2009
+92,College Name,Rashtriya Military School Bangalore
+93,Degree,"CBSE in Mathematics and English
+"
+94,College Name,Rashtriya Military School Bangalore
+95,Graduation Year, 2016
+96,Location,Pune
+97,College Name,Army institute of technology 
+98,Degree,Bachelor of Enginerring in Information Technology
+99,Graduation Year, 2016
+100,Location,Pune
+101,Companies worked at,Oracle Financial Software Services
+102,Designation,Application Developer
+103,Location,Pune
+104,Location,Pune
+105,Designation,java developer
+106,Name,Imgeeyaul Ansari
+107,Graduation Year,2011
+108,Degree,State Board
+109,Graduation Year,2013
+110,Graduation Year,2011
+111,College Name,Acharya College Chembur
+112,Degree,"HSC in Computer science
+"
+113,Graduation Year,2017
+114,College Name,Saraswati College Of Engineering
+115,Degree,"BE (Computer Science) in Computer Science
+"
+116,Skills,Capable and Hardworking
+117,Graduation Year,2011
+118,Graduation Year,2011
+119,Skills,SQL Oracle -
+120,Companies worked at,NIIT 
+121,Email Address,"Indeed: indeed.com/r/Jay-
+Madhavi/1e7d0305af766bf6"
+122,Location,Navi Mumbai
+123,Name,Jay Madhavi
+124,Graduation Year,2011
+125,College Name,AG&SGS Intermediate College
+126,Graduation Year,2014
+127,College Name,Degree College
+128,Degree,"B.com
+"
+129,Companies worked at,SAP FICO
+130,Companies worked at,SAP FICO
+131,Companies worked at,SAP FICO
+132,Companies worked at,SAP FICO
+133,Designation,FI/CO Consultant in Tech Mahindra
+134,Skills,"Finance
+• Financial Accounting- General Ledger Accounting FI-G/L (New GL),
+• Accounts Payable-FI-A/P,
+• Accounts Receivable FI-A/R"
+135,Companies worked at,SAP FICO
+136,Years of Experience, 3.2-years 
+137,Email Address, indeed.com/r/Jitendra-Babu/bc3ea69a183395ed
+138,Location,Chennai
+139,Companies worked at,SAP FICO
+140,Designation,FI/CO Consultant in Tech Mahindra
+141,Name,Jitendra Babu
+142,Skills,ITIL foundation
+143,College Name,Biju Patnaik University
+144,Degree,"B. Tech in Electronics and Communication
+"
+145,Companies worked at,Sap labs
+146,Designation,"
+Associate consultant"
+147,Companies worked at,Sap labs
+148,Designation,"
+Associate consultant"
+149,Email Address,"indeed.com/r/Jyotirbindu-
+Patnaik/77e3ceda47fbb7e4
+"
+150,Location,Bengaluru
+151,Designation,"
+Associate consultant"
+152,Name,Jyotirbindu Patnaik
+153,Skills,Consistent
+154,Skills,Hard working
+155,Skills, Flexible
+156,Skills,Ability to quick grasp the concepts
+157,Skills,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1
+year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)
+"
+158,College Name,"Hr. Sec. School
+"
+159,Location,Rajapalaiyam
+160,College Name,Tamil Nadu Board Of Education
+161,College Name,Velammal Engineering College
+162,Degree,B E in Production Engineering
+163,Companies worked at,Infosys Limited
+164,Companies worked at,Infosys Limited
+165,Designation,Systems Engineer
+166,Email Address,"indeed.com/r/Karthihayini-
+C/627254c443836b3c"
+167,Location,Rajapalaiyam
+168,Companies worked at,"Infosys Limited
+"
+169,Companies worked at,Infosys Limited
+170,Designation,Systems Engineer
+171,Name,Karthihayini C
+172,Skills,"Program Management (2 years), Product Management (2 years), Quality Assurance (10+
+years), Business intelligence, Devops
+"
+173,Graduation Year,2018
+174,College Name,Narsee Monjee Institute of Management Studies
+175,Degree,PGDBM
+176,Location,Hyderabad
+177,Companies worked at,Microsoft India
+178,Designation,Sr Test Engineer
+179,Location,Hyderabad
+180,Companies worked at,Microsoft India
+181,Designation,Sr consultant
+182,Location,Hyderabad
+183,Companies worked at,Microsoft India
+184,Designation,Architect
+185,Graduation Year,2018
+186,Companies worked at,Microsoft India
+187,Location,Hyderabad
+188,Companies worked at,Microsoft India
+189,Designation,Architect
+190,Location,Hyderabad
+191,Companies worked at,Microsoft India
+192,Designation,Architect
+193,Name,Karthik GV
+194,Skills,"Operating systems: Windows […] 8, 10.
+Languages: C, C++, C#
+
+PROFESSIONAL SKILL SET:
+
+• Good Communication Skills in English and Hindi.
+• Ability to work under pressure."
+195,Skills,SAP Security
+196,College Name,Lovely Public Sr. Sec. School
+197,Degree,CBSE
+198,Graduation Year,2011
+199,College Name,Lovely Public Sr. Sec. School
+200,Degree,CBSE
+201,Graduation Year,2015
+202,College Name,"Northern India engineering college, IP UNIVERSITY DELHI"
+203,Degree,"B.Tech in Engineering
+"
+204,Graduation Year,2015
+205,Skills,"SAP Systems: SAP ECC 6.0.
+Product Tools: GRC 10.1
+Database: Oracle, SQL, RDBMS."
+206,Location,Delhi
+207,Location,Delhi
+208,Designation,Systems Engineer
+209,Location,Delhi
+210,Skills,SAP Security
+211,Companies worked at, Infosys Ltd
+212,Designation,Systems Engineer
+213,Skills,SAP Security
+214,Degree,B.Tech in Information Technology
+215,Email Address,"indeed.com/r/Kartik-Sharma/cc7951fd7809f35e
+"
+216,Location,Delhi
+217,Location,Delhi
+218,Companies worked at, Infosys Ltd
+219,Designation,Systems Engineer
+220,Name,Kartik Sharma
+221,Companies worked at,Cisco
+222,Skills,"• Programming Languages: Python, XML
+• Database: Maria-DB, sql
+• Cisco Monitoring Tools: EM7
+• Operating Systems: Windows/XP
+• Reporting Tools: Vportal, Splunk
+• Application & Web Servers: Sciencelogic (EM7), Syslog sender, Relay server.
+• Data Structure Knowledge: Intermediate"
+223,Skills,"Database (3 years), Python (3 years), Splunk (Less than 1 year), SQL (3 years), xml (3 years)
+"
+224,Graduation Year,2012
+225,College Name,"rajasthan University
+"
+226,College Name,"Compucom Insitute of Information Technology
+"
+227,Companies worked at,Cisco
+228,Designation,Team Member
+229,Companies worked at,Cisco
+230,Companies worked at,Cisco
+231,Companies worked at,Cisco
+232,Companies worked at,Cisco
+233,Designation,Team Member
+234,Location,Bengaluru
+235,Companies worked at,Cisco
+236,Companies worked at,Cisco
+237,Email Address,"Indeed: indeed.com/r/Kasturika-
+Borah/9e71468914b38ee8"
+238,Location,Bengaluru
+239,Companies worked at,Cisco
+240,Designation,Team Member
+241,Name,Kasturika Borah
+242,Graduation Year,2014
+243,College Name,REiume Institute of road
+244,Degree,Bachelor of Engineering in Information Technology
+245,Degree,"Foundation Training Program in Networking
+"
+246,Companies worked at,"Infosys Limited
+"
+247,College Name,"Networking, Infosys Limited"
+248,Email Address,indeed.com/r/Kavitha-K/8977ce8ce48bc800
+249,Graduation Year,2014
+250,Email Address,indeed.com/r/Kavitha-K/8977ce8ce48bc800
+251,Location,Salem
+252,Companies worked at,"Infosys Limited
+"
+253,Designation,Senior System Engineer 
+254,Name,Kavitha K
+255,Skills,"Microsoft office, Libreoffice"
+256,Skills,Microsoft office
+257,Skills,UART
+258,Skills,"Understanding of UART, AMBA protocol"
+259,Skills,coding
+260,Skills,"Knowledge of RTL coding, FSM based designs"
+261,Skills,HDL
+262,Skills,Verilog HDL
+263,Skills,UART
+264,Skills,"MS
+OFFICE"
+265,Skills,Microsoft office
+266,Skills,HDL
+267,Skills,coding
+268,College Name,Vidyodaya P.U. College
+269,College Name,"Visvesvaraya Technological University
+"
+270,College Name,Srinivas Institute of Technology
+271,Degree,Bachelor of Engineering in Engineering
+272,College Name,Manipal Academy of Higher Education
+273,Email Address,indeed.com/r/Kavya-U/049577580b3814e6
+274,College Name,"School Of Information Sciences
+"
+275,Degree,"Master of Science in Technology in Technology
+
+School Of Information Sciences"
+276,Graduation Year,2007
+277,College Name,"Little Rock Indian School
+"
+278,Skills,HDL
+279,Skills,Verilog HDL
+280,Skills,coding
+281,Location,Bengaluru
+282,Companies worked at,Accenture 
+283,Designation,"Network Ops Associate
+"
+284,Email Address,indeed.com/r/Kavya-U/049577580b3814e6
+285,Location,Bengaluru
+286,Name,Kavya U.
+287,Skills,"ANDROID (Less than 1 year), CISCO (Less than 1 year), NETWORKING (Less than 1 year)"
+288,College Name,"Silver Bells Public School -  Muzaffarnagar, Uttar Pradesh"
+289,College Name,"Paratap Public School -  Karnal, Haryana"
+290,Graduation Year,2017
+291,College Name,MM University
+292,Degree,B.Tech in CSE
+293,Companies worked at,SAP ABAP 
+294,Location,Noida
+295,Location,Noida
+296,Companies worked at,SAP ABAP 
+297,Designation,Developer
+298,Email Address,"indeed.com/r/Khushboo-Choudhary/
+b10649068fcdfa42
+"
+299,Location,Noida
+300,Designation,Developer
+301,Name,Khushboo Choudhary
+302,Graduation Year,2016
+303,Skills,"network engineers, Networking, CCNA, knowledge of Active Directory, DHCP, DNS ,
+Troubleshooting and fix Network related issues (2 years)
+"
+304,Graduation Year,2016
+305,College Name,SSVPS’s Late B. S. Deore College of Engineering
+306,Degree,BE in computer science
+307,Graduation Year,2016
+308,Location,Thane
+309,Companies worked at,SAP -
+310,Designation,Technical Support Engineer
+311,Email Address,"indeed.com/r/kimaya-
+sonawane/1f27a18d2e4b1948"
+312,Location,Thane
+313,Name,kimaya sonawane
+314,Skills,"Jira, Ansible, Jenkins, Splunk, Nagios, Docker, Python, AWS, Bamboo, Linux, Git, Chef, Windows,
+Powershell Scripting
+"
+315,Graduation Year,"2008
+"
+316,College Name,Sister Nivedita School 
+317,Graduation Year,2010
+318,Location,Hyderabad
+319,Degree,Board of Intermediate education
+320,Degree,"Secondary School Certificate in education
+"
+321,Graduation Year,2014
+322,Graduation Year,2010
+323,College Name,Lovely Professional University
+324,Degree,Bachelor Of Engineering in Mechanical Engineering
+325,Email Address,indeed.com/r/Koushik-Katta/a6b19244854199ec
+326,Graduation Year,2014
+327,Companies worked at,Infosys limited
+328,Designation,DEVOPS ADMINISTRATOR
+329,Skills,"Atlassian Tools: Jira, Confluence
+Configuration Management: Ansible /Chef
+CI Tools: Jenkins
+Monitoring Tools: Nagios
+Cloud: AWS
+Containerization: Docker
+Build Tools: Bamboo\Maven
+Log Tools: Splunk
+Databases: RDBMS, MYSQL, Oracle Database
+Programming Languages: Python and Java
+Scripting: Power Shell
+Operating Systems: Windows, Linux family, Redhat Linux
+Middleware: Websphere, Tomcat, Websphere MQ"
+330,Graduation Year,2014
+331,Location,Hyderabad
+332,Graduation Year,2014
+333,Location,Hyderabad
+334,Companies worked at,Infosys limited
+335,Email Address,indeed.com/r/Koushik-Katta/a6b19244854199ec
+336,Location,Hyderabad
+337,Name,Koushik Katta
+338,Skills,"DHCP (Less than 1 year), DNS (Less than 1 year), EXCHANGE (Less than 1 year), exchange
+(Less than 1 year), LAN (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS:-
+
+• Messaging: MS exchange, Lotus client and MS outlook issue coordination to user.
+
+• Users / Share folders creation and permission assigning.
+
+• Networking: TCP/IP, DNS, DHCP, and LAN/WAN.
+
+• Monthly patching update activity and server owner approval / RFC follow-ups."
+339,College Name,inDR N.G.P ARTS AND SCIENCE COLLEGE 
+340,Degree,"Bachelor of computer science in computer science
+"
+341,Companies worked at,"
+Cisco"
+342,Designation,Certified Network Associate Training Program
+343,Email Address,"indeed.com/r/Kowsick-
+Somasundaram/3bd9e5de546cc3c8"
+344,Location,Erode
+345,Designation,Certified Network Associate Training Program
+346,Name,Kowsick Somasundaram
+347,Skills,"
+SAPUI5 (2 years), CSS. (2 years), EMPLOYEE RESOURCE GROUP (2 years), ENTERPRISE
+RESOURCE PLANNING (2 years), SAP ABAP (2 years)
+
+ADDITIONAL INFORMATION
+
+Technical skills
+Languages SAPUI5 (Primary Skill),
+ABAP/4, C, C++, HTML, CSS, JavaScript, PHP,
+jQuery, Ajax.
+ERP SAP R/3 in 4.7, 5.0 (E)
+Operating Systems Windows
+Database MySQL, Oracle"
+348,Location,Bengaluru
+349,Companies worked at, Infosys Limited
+350,Designation,Senior Systems Engineer
+351,Location,Bengaluru
+352,Designation,Senior Systems Engineer
+353,Location,Bengaluru
+354,Designation,Senior Systems Engineer
+355,Email Address,"indeed.com/r/Lakshika-
+Neelakshi/27b31f359c52ef76"
+356,Location,Bengaluru
+357,Companies worked at, Infosys Limited
+358,Designation,Senior Systems Engineer
+359,Name,Lakshika Neelakshi
+360,Graduation Year,2014
+361,Graduation Year,2014
+362,Skills,"Tools: Manual Testing, Selenium (Selenium IDE, Selenium Web Driver), Eclipse IDE.
+Languages: C, Core Java
+Database: SQL
+Operating Systems: Windows XP, 7, 8
+Management Tool: HP Quality Center
+Defect Tracking Tool: JIRA"
+363,College Name,"Padmavani High School
+"
+364,Graduation Year,2010
+365,College Name,Vani Jr college
+366,Graduation Year,2014
+367,College Name,Kuppam Engineering College
+368,Degree,B-Tech
+369,Designation,"Software Test Engineer
+"
+370,Graduation Year,2014
+371,Graduation Year,2014
+372,Designation,"Software Test Engineer
+"
+373,Graduation Year,2014
+374,Graduation Year,2014
+375,Graduation Year,2014
+376,Graduation Year,2014
+377,Companies worked at,Infosys Limited
+378,Designation,"Software Test Engineer
+"
+379,Graduation Year,2014
+380,Graduation Year,2014
+381,Companies worked at,Infosys Limited
+382,Companies worked at,Infosys Limited
+383,Email Address,"indeed.com/r/Madas-
+Peddaiah/557069069de72b14
+"
+384,Location,Anantapur
+385,Name,Madas Peddaiah
+386,Skills,"LINUX (4 years), UNIX (4 years), ospf (4 years), bgp (4 years), mpls (4 years), ipsec (4 years),
+multicast (4 years), l2vpn (4 years), l3vpn (4 years), tcl (4 years), python (2 years)
+"
+387,College Name,"Rajah college
+"
+388,Degree,S.S.C in computer science
+389,College Name,PES college
+390,Degree,Master degree in computer science in computer science
+391,Companies worked at,Cisco
+392,Companies worked at,Cisco
+393,Companies worked at,Wipro
+394,Designation,"Senior software engineer
+"
+395,Designation,Senior project engineer
+396,Companies worked at,Wipro
+397,Companies worked at,Cisco
+398,Companies worked at,Cisco
+399,Designation,Senior project engineer
+400,Companies worked at,Wipro
+401,Designation,Senior project engineer
+402,Years of Experience,4 year
+403,Email Address,"Indeed: indeed.com/r/Madhuri-
+Sripathi/04a52a262175111c
+"
+404,Location,Banglore
+405,Name,Madhuri Sripathi
+406,Skills,"
+• Desk Manuals/Business Process & Navigation Documentation
+• Business Ethics
+• Professional Communication
+• Reporting Tools & Microsoft Office Applications"
+407,Companies worked at,Oracle
+408,Companies worked at,Oracle
+409,Skills,"BCP (6 years), Data Governance (6 years), Data Management (6 years), Oracle (6 years),
+Reporting Tools (6 years)
+
+ADDITIONAL INFORMATION
+
+Key Skills
+• Process Management & Improvement
+• Operations & Team Management
+• Data Governance & Automation
+• Oracle E- Business Systems experience in Supplier Data/Vendor Data management
+• BCP Policies & Procedures"
+410,Companies worked at,Oracle
+411,Companies worked at,Oracle
+412,Companies worked at,Oracle
+413,Companies worked at,Oracle
+414,Companies worked at,Oracle
+415,Companies worked at,Oracle
+416,Companies worked at,Oracle
+417,Companies worked at,Oracle
+418,Companies worked at,Oracle
+419,Email Address,indeed.com/r/Mahesh-Vijay/a2584aabc9572c30
+420,Companies worked at,Oracle
+421,Graduation Year,2004
+422,College Name,Vivekananda PU College
+423,Graduation Year,2007
+424,College Name,"Vivekananda Degree College, Bangalore
+University"
+425,Degree,Bachelors in Commerce (B.Com) 
+426,Location,Bengaluru
+427,Companies worked at,Oracle
+428,Designation,Senior Analyst -Supplier Data Management
+429,Companies worked at,Oracle
+430,Designation,"Lead Analyst -SME -Supplier Data Management
+"
+431,Companies worked at,Oracle
+432,Companies worked at,Oracle
+433,Designation,Team lead 
+434,Graduation Year,2007
+435,Companies worked at,Oracle
+436,Designation,Team lead 
+437,Companies worked at,Oracle
+438,Years of Experience,6.5 years
+439,Email Address,indeed.com/r/Mahesh-Vijay/a2584aabc9572c30
+440,Location,Bengaluru
+441,Name,Mahesh Vijay
+442,Skills,"Uft/qtp,alm/qc,jira,jenkins,automation testing,cicd,service vitualization,uipath
+
+
+
+ADDITIONAL INFORMATION
+
+Operating Systems Windows 10 / 8 / 7 / Vista / XP
+
+Domains Banking and Finance
+
+Frameworks Data driven framework, Keyword driven framework
+
+Tools HP-UFT, HP-SV, HP-ALM/QC, SOAP UI, JENKINS, UiPath
+
+Methodologies STLC, Agile and waterfall.
+
+Project Management Tools JIRA
+
+TECHNICAL SKILLS
+
+• 2.5+years of professional experience in SQL.
+• Has hands on experience on Oracle DB (Oracle 11g)
+• Has extensive knowledge of Testing Procedures and various
+phases of Testing Has 2+ years of experience on QC/ALM
+• Has 2+ years working experience in API & GUI testing
+using HP UFT. Has 4 months of experience with uiPath
+• Has 2+ years working experience in SOAP UI.
+• Has 1.5+ year working experience on service virtualization using HP SV tool.
+• Has 6 months working experience in JIRA during work under agile methodology.
+• Has undergone Infosys Training in .Net Testing.
+• Has knowledge about CICD (Continuous integration and continuous delivery)
+
+PROJECT UNDERTAKEN
+
+DI-Middleware testing (August 14 -
+July 17) Domain- Accounts and customer.
+Client- ABN AMRO Bank (Netherland's bank)
+Project Name- ESB (Enterprise service bus)
+• Tools- ALM, SQL Developer, HP UFT, HP SV, SOAP UI, JENKINS, JIRA.
+In this project, we were validating end to end communication of consumer & provider via ESB.
+What consumer actually
+sent to the Provider and how provider responds to the consumer. Testing included System
+Integration Testing,
+Regression Testing, GUI Testing and Reports."
+443,Graduation Year,2013
+444,College Name,"Meghnad saha institute of technology
+"
+445,Degree,B.Tech in CSE
+446,Designation,"Software Automation Engineer
+"
+447,Location,"Pune,"
+448,Years of Experience,3.5 years
+449,Email Address,"indeed.com/r/Manisha-Bharti/3573e36088ddc073
+"
+450,Location,"Pune,"
+451,Designation,"Software Automation Engineer
+"
+452,Name,Manisha Bharti
+453,Companies worked at,Accenture
+454,Skills,"QA (7 years), TESTING (6 years), ESTIMATION (6 years), AMDOCS (Less than 1 year), BILLING
+(Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS AND COMPETENCIES
+Domain and Functional Expertise Tools and Languages:
+• Telecommunications and IPTV Systems • NetCracker, NetProvision, Insight (IISY), HDM (Nokia),
+Trouble Ticketing
+• Test/QA Lead • Click Schedule, FieldLink, AMDOCS-Ordering, Billing - Product Catalog
+• Project Management • IBM - TOCP, Mediaroom, MediaFirst TV3 platform (Ericsson)
+• Software Testing and Defect Management • HP QC 10, JIRA, TDP, Accenture Test Estimation Tool
+• Lead to Order and Order to Cash Management • Caliber RM (Requirement Gathering),
+Confluence, Clear Quest
+• Service Provisioning and Activation • Worksoft Certify, QTP, Java, Selenium, SQL, HTML, XML
+• Business Analysis (Requirement Management) • Splunk, WinSCP, SOAP UI, Kibana, Wireshark
+• Automation • Proficiency in MS Office (Word, Excel, PowerPoint and Visio)"
+455,College Name,"Canossa Convent School
+"
+456,Graduation Year,2007
+457,College Name,"Canossa Convent Girls Inter College
+"
+458,Graduation Year,2011
+459,College Name,Amity University 
+460,Degree,"B.TECH. in Information Technology
+"
+461,Companies worked at,Accenture
+462,Companies worked at,Accenture
+463,Graduation Year,2011
+464,Location,Bengaluru
+465,Companies worked at,Accenture
+466,Designation,Senior Software Analyst
+467,Location,Bengaluru
+468,Companies worked at,Accenture
+469,Designation,Senior Software Analyst
+470,Email Address,"indeed.com/r/Manjari-Singh/fd072d33991401f0
+"
+471,Location,Bengaluru
+472,Companies worked at,Accenture
+473,Designation,Senior Software Analyst
+474,Name,Manjari Singh
+475,Graduation Year,2013
+476,Skills,"Active Directory (2 years), Microsoft office, Windows,End user computing (3 years)"
+477,College Name,Rajiv Gandhi Institute of Technology
+478,College Name,Al-Ameen PU College
+479,Graduation Year,2013
+480,Location,Bengaluru
+481,College Name,Visveswaraiah Technological University
+482,Degree,"B.E in Electronics & Communication
+"
+483,Companies worked at,Accenture
+484,Companies worked at,Accenture
+485,Designation,IT Operations Analyst
+486,Location,"indeed.com/r/Mohamed-Ameen/
+ba052bfa70e4c0b7
+"
+487,Location,Bengaluru
+488,Designation,System engineer
+489,Name,Mohamed Ameen
+490,Location,Gurgaon
+491,Skills,"active directory, iis, sccm, dhcp, sql, wsus, dns
+
+ADDITIONAL INFORMATION
+
+Computer Skills
+● MS Office Tools: MS Excel, MS Word, MS Power Point.
+● Hands on experience on all versions of Windows.
+● Sound knowledge of internet and networking.
+● Coding Languages: C, C++, Java."
+492,College Name,KIIT college of Engg.
+493,Email Address,indeed.com/r/Mohini-Gupta/08b5b8e1acd8cf07
+494,Degree,B.tech
+495,Companies worked at,Microsoft
+496,Companies worked at,Microsoft
+497,Designation,Server Support Engineer
+498,Email Address,indeed.com/r/Mohini-Gupta/08b5b8e1acd8cf07
+499,Location,Gurgaon
+500,Designation,Server Support Engineer
+501,Name,Mohini Gupta
+502,Skills,"SKILL SET • ASP.NET, C# • QA tools
+
+• Coding and modularization • Excellent communication skills
+
+• VB, VB.net, ASP • Technical specifications creation
+
+• HTML • System backups
+
+• Sql server 2005, Oracle • System upgrades
+
+• Java/C/C++ • Excellent problem-solving abilities
+
+Navas Najeer Koya 3"
+503,Location,Mangalore
+504,Skills,"C# (Less than 1 year), .NET, SQL Server, Css, Html5
+"
+505,Graduation Year, 2014
+506,Location,Mangalore
+507,Location,Mangalore
+508,Degree,Bachelor of Computer Application
+509,Graduation Year, 2014
+510,Companies worked at,Infosys
+511,Designation,"Test Engineer
+"
+512,Companies worked at,Infosys
+513,Designation,"Test Engineer
+"
+514,Graduation Year, 2014
+515,Companies worked at,Infosys
+516,Designation,System Engineer
+517,Location,Mangalore
+518,Location,Mangalore
+519,Designation,"Test Engineer
+"
+520,Name,Navas Koya
+521,Skills," Basic Computers knowledge
+● Good Understanding of Business Ethics, Operational Research.
+● Completed Project Work on working capital with A+ Grade."
+522,Graduation Year,2015
+523,College Name,Guru Nanak English High School and Jr cllg
+524,Degree,H.S.C
+525,Graduation Year,2018
+526,Graduation Year,2015
+527,College Name,Vedanta College of management and information technology
+528,Degree,TYBMS in Management Studies
+529,Location,Ulhasnagar
+530,Companies worked at,Accenture
+531,Designation,fresher job
+532,Email Address,"indeed.com/r/Navjyot-Singh-Rathore/
+ad92079f3f1a4cad"
+533,Location,Ulhasnagar
+534,Name,Navjyot Singh Rathore
+535,College Name,UPTU. India
+536,Degree,Master of Computer Application
+537,Graduation Year,2015
+538,Skills,"• Trained on SAP S4 HANA.
+• Having knowledge of Code Push down, CDS view and it's consumption in ABAP.
+• Data Modeling, creation of different type of views.
+• AMDP.
+• ADBC connectivity.
+• Familiar with SQL, DDL, DML syntaxes.
+• Work on Windows 7, Windows XP, Windows 8, Windows 10 OS, can work on C, C++"
+539,Skills,"SAP (2 years), ABAP (2 years), ADBC (Less than 1 year), C++ (Less than 1 year), DATA
+MODELING (Less than 1 year)"
+540,Companies worked at,SAP ABAP
+541,Designation,Consultant
+542,Companies worked at,SAP ABAP
+543,Designation,Consultant
+544,Email Address,"indeed.com/r/Nazish-Alam/
+b06dbac9d6236221"
+545,Location,Ghaziabad
+546,Companies worked at,SAP ABAP
+547,Designation,Consultant
+548,Name,Nazish Alam
+549,Skills,"Technical Experience: - Automation Testing (REST API, Service Virtualization), Functional Testing,
+Regression Testing
+Manual Testing, Scripting (SQL)
+Domain Experience: - Telecom, Banking
+Programming & Scripting Languages: - HTML, CSS, XML, SQL, JAVA (Basic), JSON
+SDLC Model: -Waterfall, Agile
+Testing Tools: - CA LISA, APM (Amdocs Process Manager), SOAP UI, TOSCA, HP-ALM (QC)
+Test Management Tools: -JIRA, Quality Center
+Other Tools: -SQL Developer, TOAD.
+Database: - DB2, SQL"
+550,Skills,"API. (1 year), Scripting. (1 year), SOAP (1 year), UI (1 year), XML (3 years)
+"
+551,College Name,"Central India Institute
+"
+552,Degree,Bachelor in Electronics
+553,Graduation Year,"
+2008
+
+"
+554,Degree,State Board
+555,Email Address,indeed.com/r/Nidhi-Pandit/b4b383dbe14789c5
+556,Designation,Test Engineer
+557,Designation,Test Engineer
+558,Designation,Test Engineer
+559,Email Address,indeed.com/r/Nidhi-Pandit/b4b383dbe14789c5
+560,Companies worked at,"Infosys Limited
+"
+561,Designation,Test Engineer
+562,Name,Nidhi Pandit
+563,Skills,"Platform business model, Behaviour design
+"
+564,Skills,"Python, Django, Celery, Java, AngularJS, HTML, Bootstrap 3, Shell Script, MySQL, MongoDB,
+Ubuntu"
+565,Skills,"Django (6 years), Java (3 years), MongoDB (3 years), MySQL (3 years), Python (6 years)"
+566,Graduation Year,2012
+567,Location,Bengaluru
+568,College Name,IIIT
+569,College Name,VIT
+570,Degree,M.Tech. in IT
+571,Companies worked at,Infosys
+572,Designation,System Engineer
+573,Graduation Year,2012
+574,Graduation Year,2012
+575,Companies worked at,Cisco
+576,Companies worked at,Cisco
+577,Graduation Year,2012
+578,Location,Bengaluru
+579,Companies worked at,Cisco
+580,Designation,Software Engineer
+581,Companies worked at,Aggrigator
+582,Location,Bengaluru
+583,Companies worked at,Aggrigator
+584,Designation,"Product Development
+"
+585,Email Address,"indeed.com/r/Nikhileshkumar-Ikhar/
+cb907948c3299ef4
+"
+586,Location,Bengaluru
+587,Degree,M.Tech. in IT
+588,Years of Experience, 7+ years
+589,Designation,Product development engineer
+590,Name,Nikhileshkumar Ikhar
+591,Skills,"• Programming Language: core java, peoplecode.
+• Scripting languages: PHP, JavaScript.
+• Web Languages: HTML, CSS.
+• Database Language: Sql.
+• Frameworks: Bootstrap, JQuery.
+• IDE's: NetBeans, Eclipse.
+• Tools: Application Designer, Toad."
+592,Skills,"Php, Html5, Javascript, Css, Bootstrap, Jquery, Sql"
+593,College Name,Vijaya High School
+594,Degree,e-commerce
+595,College Name,Vijaya composite p.u. college
+596,Graduation Year,"
+2017"
+597,College Name,Vtu 
+598,Degree,"Btech information science in BCET
+"
+599,Degree,e-commerce
+600,Email Address,indeed.com/r/Nitin-Tr/e7e3a2f5b4c1e24e
+601,Companies worked at,Oracle
+602,Companies worked at,Oracle
+603,Designation,"
+PeopleSoft consultant
+"
+604,Degree,e-commerce
+605,Degree,e-commerce
+606,Email Address,indeed.com/r/Nitin-Tr/e7e3a2f5b4c1e24e
+607,Location,Bangalore Urban
+608,Name,Nitin Tr
+609,Skills,REST
+610,Skills,Angular JS
+611,Skills,DOJO
+612,Skills,CSS
+613,Skills,HTML
+614,Skills,HTML
+615,Skills,SVN
+616,Skills,Code Collaborator
+617,Skills,WinSCP
+618,Skills,SSH
+619,Skills,Eclipse
+620,Skills,UNIX
+621,Skills,"Windows (7, XP)"
+622,Skills,Oracle
+623,Skills,OOJS
+624,Skills,JavaScript
+625,Skills,Core Java
+626,Graduation Year,1980
+627,College Name,Institute of Road and Transport May
+628,Degree,"B.Tech
+"
+629,Skills,HTML
+630,Skills,CSS
+631,Skills,DOJO
+632,Skills,JAVASCRIPT
+633,Designation,SYSTEMS ENGINEER
+634,Designation,INDUSTRY BANKING
+635,Skills,DOJO
+636,Email Address,indeed.com/r/Pradeeba-V/19ff20f4b8552375
+637,Skills,HTML
+638,Skills,CSS
+639,Skills,DOJO
+640,Skills,JAVASCRIPT
+641,Designation,SYSTEMS ENGINEER
+642,Designation,SENIOR SYSTEMS ENGINEER
+643,Designation,INDUSTRY FINACLE - BANKING
+644,Skills,REST
+645,Skills,HTML
+646,Skills,Code Collaborator
+647,Skills,SVN
+648,Skills,Angular JS
+649,Skills,DOJO
+650,Skills,REST
+651,Skills,CSS3
+652,Skills,CSS
+653,Skills,HTML5
+654,Skills,HTML
+655,Skills,OOJS
+656,Skills,JAVASCRIPT
+657,Companies worked at,CISCO
+658,Designation,LEAD ENGINEER
+659,Email Address,indeed.com/r/Pradeeba-V/19ff20f4b8552375
+660,Companies worked at,CISCO
+661,Designation,LEAD ENGINEER
+662,Name,Pradeeba V
+663,Skills,"• Good communication - written and oral skills
+• Excellent conceptual and analytical skills
+• Effective interpersonal skills
+
+PERSONALITY
+• Communicative • Punctuality
+• Creativity • Organized"
+664,Skills,"Java, Jsp, Html, Sql, C++, Javascript"
+665,College Name,Notre Dame Academy 
+666,Degree,"C.B.S.E.
+"
+667,Graduation Year,"2014
+"
+668,College Name,Vellore Institute of Technology 
+669,Degree,Bachelor of Technology in Information Technology
+670,Location,Mangalore
+671,Companies worked at,Infosys Limited
+672,Location,Mangalore
+673,Companies worked at,Infosys Limited
+674,Designation,Senior System Engineer
+675,Email Address,"indeed.com/r/Prakriti-
+Shaurya/5339383f9294887e"
+676,Location,Mangalore
+677,Companies worked at,Infosys Limited
+678,Designation,Senior System Engineer
+679,Name,Prakriti Shaurya
+680,Skills,CHEF
+681,Skills,"AWS
+"
+682,Skills,AWS
+683,Companies worked at,Oracle
+684,Skills,weblogic
+685,Skills,Docker
+686,Skills,jenkins
+687,Skills,devops
+688,Skills, maven
+689,Skills,svn
+690,Skills,git
+691,Skills,Linux
+692,Skills,CHEF
+693,Skills,AWS
+694,Location,Hyderabad
+695,Location,Hyderabad
+696,College Name,Annamacharya Institute of Technology
+697,Companies worked at,Oracle
+698,Designation,Configuration Engineer
+699,Companies worked at,Oracle
+700,Skills,Docker
+701,Skills,Docker
+702,Skills,CHEF
+703,Skills,"AWS
+"
+704,Skills,AWS
+705,Location,Hyderabad
+706,Companies worked at,Oracle
+707,Designation,Configuration Engineer
+708,Location,Hyderabad
+709,Skills,Linux
+710,Companies worked at,Oracle
+711,Skills,Linux
+712,Skills,Linux
+713,Skills,Linux
+714,Companies worked at,Oracle
+715,Companies worked at,Oracle
+716,Skills,Linux
+717,Skills,Docker
+718,Skills,AWS
+719,Skills,Linux
+720,Companies worked at,Oracle
+721,Skills,Linux
+722,Skills,AWS
+723,Skills,CHEF
+724,Skills,Linux
+725,Skills,CHEF
+726,Designation,Configuration Engineer
+727,Graduation Year,2015
+728,Location,Hyderabad
+729,College Name,Annamacharya Institute of Technology
+730,Degree,B.Tech
+731,Skills,CHEF
+732,Skills,"Configuration Tools
+"
+733,Skills,"AWS
+"
+734,Skills,AWS
+735,Skills,"Cloud
+"
+736,Skills,"UDeploy,Jenkins"
+737,Companies worked at,Oracle
+738,Skills,"Shell Scripting and Python
+"
+739,Skills,Maven 3
+740,Skills,"Jenkins 1.6, Hudson"
+741,Skills,"WebLogic 11g, Apache HTTP Server 2.4"
+742,Skills,Continuous Integration Tools
+743,Skills,Web/Appservers
+744,Skills,"Subversion(SVN),GIT
+"
+745,Skills,"Version Control Tools 
+"
+746,Graduation Year,2015
+747,Location,Hyderabad
+748,Companies worked at,Oracle
+749,Designation,Configuration Engineer
+750,Companies worked at,Oracle
+751,Skills,Docker
+752,Skills,Docker
+753,Skills,CHEF
+754,Skills,"AWS
+"
+755,Skills,AWS
+756,Email Address,"indeed.com/r/PRASHANTH-BADALA/
+bf4c4b7253a8ece7"
+757,Location,Hyderabad
+758,Companies worked at,Oracle
+759,Designation,Cloud Engineer
+760,Designation,Devops Engineer
+761,Name,PRASHANTH BADALA
+762,Companies worked at,Oracle
+763,Companies worked at,Oracle
+764,Companies worked at,Oracle
+765,Companies worked at,Oracle
+766,Companies worked at,Oracle
+767,Skills,"Extension, PLSQL, BI Publisher Reports, Oracle Reports, AP, HRMS, GL, Conversion, Oracle Apps
+technical, Interface, AR, TOAD, OLFM, SQL, FA
+
+ADDITIONAL INFORMATION
+
+Software Skills:
+
+ERP-Oracle Applications 11i, R12
+Accounts Receivable, Accounts Payable, Fixed Assets, General Ledger, Oracle Lease and Finance
+Management, Purchasing and HRMS (Employee, Assignment, Contacts, Pay methods, Job and
+Location)
+
+RDBMS Oracle […]
+LANGUAGES C++
+TOOLS Toad, SQL Developer, Kintana, Report Builder 6i/10g, Discoverer Admin/Desktop/Plus/
+Viewer and BI Publisher"
+768,College Name,Visvesvaraya Technological University
+769,College Name,Dayanand Sagar College of Engineering
+770,Degree,Bachelor of Engineering in Engineering
+771,College Name,Visvesvaraya Technological University
+772,Degree,"B.E
+"
+773,Companies worked at,Oracle
+774,Companies worked at,Oracle
+775,Companies worked at,Oracle
+776,Companies worked at,Oracle
+777,Companies worked at,Oracle
+778,Companies worked at,Oracle
+779,Companies worked at,Oracle
+780,Companies worked at,Oracle
+781,Companies worked at,Oracle
+782,Companies worked at,Oracle
+783,Companies worked at,Oracle
+784,Designation,Principal Consultant
+785,Companies worked at,Oracle
+786,Companies worked at,Oracle
+787,Designation,Principal Consultant
+788,Companies worked at,Oracle
+789,Companies worked at,Oracle
+790,Companies worked at,Oracle
+791,Companies worked at,Oracle
+792,Companies worked at,Oracle
+793,Companies worked at,Oracle
+794,Designation,Principal Consultant
+795,Companies worked at,Oracle
+796,Location,Bengaluru
+797,Companies worked at,Oracle
+798,Designation,Principal Consultant
+799,Name,Pratibha P
+800,Companies worked at,SAP
+801,Companies worked at,SAP
+802,Skills,"Front End Tool
+Languages
+SAP Technologies HR and Administration Functional Module
+Database FOXPRO 6.22
+Concepts OOP'S, Networking, DBMS, Operating System.
+Operating System MS-Dos […] & MS OFFICE 2007, 2008 & 2010
+"
+803,Companies worked at,SAP
+804,Companies worked at,SAP
+805,Companies worked at,SAP
+806,Companies worked at,SAP
+807,Skills,"HR (10+ years), SAP (10+ years), APPRAISAL (Less than 1 year), BUYING/PROCUREMENT (Less
+than 1 year), DATABASE (Less than 1 year)"
+808,Designation,Officer-HR & Administration in H.& R. Johnson (India)
+809,Companies worked at,SAP
+810,Companies worked at,SAP
+811,Location,Dewas
+812,Companies worked at,SAP
+813,Designation,Officer-HR & Administration in H.& R. Johnson (India)
+814,Companies worked at,SAP
+815,Companies worked at,SAP
+816,Email Address, indeed.com/r/Prem-Koshti/a1fec9e7289496f0
+817,Location,Dewas
+818,Companies worked at,SAP
+819,Designation,Officer-HR & Administration in H.& R. Johnson (India)
+820,Name,Prem Koshti
+821,Skills,"✓ ADVANCED MS OFFICE (WORD, POWERPOINT, EXCEL, ETC.)
+✓ ADOBE PHOTOSHOP, READER X, ACROBAT, COREL DRAW, MICROMEDIA FLASH ETC.
+✓ JAVA NETBEANS, SQL, HTML, CMD PROMPT, ETC.
+✓ FAMILIAR WITH ALL SORTS OF WINDOW SETS AND WEB BROWSERS.
+✓ ALL KINDS OF UTILITY SOFTWARES AND HARDWARE OPTIONS TO INCREASE EFFICIENCY AND
+EFFECTIVENESS IN WORKING.
+✓ COMPLETE KNOWLEDGE OF MICROSOFT EXCHANGE SERVER 2012.
+✓ CAN DEVELOP WEBSITES BASED ON HTML, PHP ETC.
+✓ BASIC KNOWLEDGE OF ANDROID AND MAC APPLICATIONS.
+✓ COMPLETE KNOWLEDGE OF SERVER AND CLIENT BASED ENVIRONMENT
+✓ BASIC KNOWLEDGE OF MICROSOFT WINDOWS FIREWALL"
+822,Companies worked at,Cisco
+823,Companies worked at,Cisco
+824,Skills,"A computer expert with hardware and software grab.
+✓ Administration and Back-end handling (Technical) on overall basis of the Branch.
+✓ Convincing people tactfully so as to make the company an option for the user."
+825,Skills,"Firewall (1 year), HTML (1 year), MICROSOFT WINDOWS (1 year), Router (1 year), security. (1
+year)"
+826,College Name,Aptech Institute of Technology
+827,College Name,Aptech Institute of Technology
+828,Degree,Computer Networking
+829,College Name,"Karnataka State University
+"
+830,Degree,BACHELOR'S IN SCIENCE in COMPUTER NETWORKING
+831,College Name,"IGNOU
+"
+832,Degree,"
+MCL in Computer Application
+"
+833,Companies worked at,Cisco
+834,Companies worked at,Cisco
+835,Companies worked at,Cisco
+836,Companies worked at,Cisco
+837,Email Address,"indeed.com/r/Pulkit-Saxena/ad3f35bfe88a0410
+"
+838,Location,New Delhi
+839,Name,Pulkit Saxena
+840,Skills, Windows and Linux
+841,Skills,"Eclipse, PyCharm"
+842,Skills,"Databases: Oracle, Mysql"
+843,Skills,"Java, C, C++, Python, Batch"
+844,Skills,"python, java
+"
+845,Skills, HYPERION
+846,Skills,ESSBASE
+847,Skills,ECLIPSE
+848,Skills,DATABASES
+849,Skills,C++ 
+850,Graduation Year,2017
+851,College Name,"North Maharashtra University
+"
+852,Degree,B.E. in ENC
+853,Graduation Year,2017
+854,Companies worked at,Oracle India Pvt Ltd
+855,Designation,"Associate Software Engineer
+"
+856,Email Address,"indeed.com/r/Puneet-Singh/cb1ede9ee6d21bca
+"
+857,Location,Bengaluru
+858,Designation,"Associate Software Engineer
+"
+859,Name,Puneet Singh
+860,Skills,"Scripting Languages: Shell Scripting
+Configuration Management: Ansible.
+Container service: Docker"
+861,Skills,"Cloud Technologies: AWS
+
+Operating Systems: Linux, Windows.
+Version Control Systems: GIT
+Automated Build Tools: Maven
+Continuous Integration: Jenkins"
+862,Skills,"AWS (3 years), Tomcat, Ansible, git, LAMP, docker, jenkins, Maven, Jira"
+863,College Name,Vaughn College of Aeronautics and Technology
+864,Degree,Bachelor Of Science
+865,Companies worked at,Microsoft
+866,Designation,"Process Associate
+"
+867,Companies worked at,"HCL Technologies -
+"
+868,Designation,Software Engineer
+869,Designation,Software Engineer
+870,Years of Experience, 3.5 years
+871,Location,Hyderabad
+872,Companies worked at,"Disney
+"
+873,Designation,Software Engineer
+874,Name,Rahul Bollu
+875,Skills,"Soft Skills
+
+Communicator, Innovator, Team Player, Analytical Collaborator. Intuitive
+
+Technical Skills
+• Google AdWords, Google Analytics, Inbound Marketing, SEO (On-page and Off- page), SEM,
+Facebook Ads and Social
+•Project Management, MS Project Professional
+Media Campaigns (Content Bucketing)
+• Tableau, Microsoft Power BI, SPSS
+• MS Office Suite, Advanced Excel, MS SharePoint, Visio, Adobe Photoshop, Pega Marketing and
+BPM"
+876,Skills,"
+Adobe Photoshop (Less than 1 year), Ads (Less than 1 year), BI (1 year), Business Intelligence
+(1 year), MS Excel (2 years), presales (1 year), Tableau (1 year), Pega Marketing and BPM (Less
+than 1 year), MS Word (2 years), MS Powerpoint (2 years), MS Sharepoint (2 years), Spss (Less
+than 1 year), IBM Maximo (Less than 1 year), marketing strategy (2 years), Business Analysis
+(2 years), communication and soft skills (2 years), Project Management (2 years), Project
+Planning (2 years), Team Management (1 year)"
+877,Companies worked at,"Infosys -  Pune, Maharashtra -
+"
+878,Designation,"Associate Consultant
+"
+879,Companies worked at,Infosys Limited
+880,Designation,"Associate Consultant
+"
+881,Designation,Senior Associate Consultant
+882,Years of Experience,2 years
+883,Email Address,Indeed: indeed.com/r/Rajeev-Kumar/3f560fd91275495b
+884,Location,Bengaluru
+885,Companies worked at,Infosys/Offshore Lead
+886,Designation,Senior Associate Consultant
+887,Designation,Senior Associate Consultant
+888,Name,Rajeev Kumar
+889,Graduation Year,1992
+890,College Name,Nagarjuna University
+891,Degree,"B.S. in Electronics & Communications Engineering
+"
+892,Graduation Year,1994
+893,College Name,"Texas A&M University -  Kingsville, TX
+"
+894,Degree,"M.S. in Computer Engineering
+"
+895,Skills,"UNIX, Windows, Linux
+"
+896,Skills,"SQL, PL/SQL, HTML, XML, JAVA, JDK, J2EE, Oracle ADF, Oracle JDeveloper"
+897,UNKNOWN,"Oracle 10g, 11g, 12c"
+898,Skills,"Relational data modeling, Object Oriented Modeling & Design, UML, SOAP"
+899,Companies worked at,Oracle Inc
+900,Companies worked at,Oracle Inc
+901,Designation,"Project Lead
+"
+902,Companies worked at,Oracle Inc
+903,Designation,"Principal Applications Developer
+"
+904,Companies worked at,Oracle Inc
+905,Designation,"Senior Development Manager
+"
+906,Companies worked at,Oracle Inc
+907,Designation,"Senior Development Manager
+"
+908,Companies worked at,Oracle Inc
+909,Companies worked at,Oracle Inc
+910,Companies worked at,Oracle Inc
+911,Designation,Software Development Director
+912,Years of Experience,22 years
+913,Email Address,"indeed.com/r/Ram-Edupuganti/3ecdecbcba549e21
+"
+914,Companies worked at,Oracle Inc
+915,Companies worked at,Oracle Inc
+916,Designation,Software Development Director 
+917,Designation,Software Development Director
+918,Name,Ram Edupuganti
+919,Skills,"
+Lead genearation, Customer Handling, cold calling, Negotiation, upselling, IT sales, outbound
+calling, Technical Support, sales forcasting, Software sale, product demonstration, cross selling,
+Inside Sales, Technical sales, MS office, software integration, Network Management
+"
+920,College Name,Govt Science College
+921,Degree,BACHELOR OF SCIENCE in Electronics
+922,College Name,Dayananda Sagar College of Engineering
+923,Degree,MCA in COMPUTER APPLICATION
+924,Email Address,indeed.com/r/Ramesh-HP/95fc615713630c4e
+925,Companies worked at,SAP ARIBA 
+926,Designation,CES ASSOCIATE CONSULTANT
+927,Email Address,indeed.com/r/Ramesh-HP/95fc615713630c4e
+928,Location,Bangalore
+929,Designation,CES ASSOCIATE CONSULTANT
+930,Name,Ramesh HP
+931,Skills,logging
+932,Skills,Black Box
+933,Companies worked at,Accenture
+934,Skills,SQL
+935,Skills,Database
+936,Skills,java
+937,Skills,SDLC&STLC
+938,Skills,Manual Testing
+939,Skills,Splunk
+940,Skills,Nagious
+941,Skills,SQL
+942,Skills,logging
+943,Skills,java
+944,Skills,Database
+945,Skills,Black Box
+946,Skills,Black Box
+947,Graduation Year,2010
+948,College Name,pragathi high school
+949,Graduation Year,2012
+950,College Name,narayana jr.college
+951,Graduation Year,2015
+952,College Name,vasundhara womens
+953,Degree,BSc in Computer Science
+954,Graduation Year,2015
+955,Location,Hyderabad
+956,Companies worked at,Accenture
+957,Designation,Software Engineer
+958,Companies worked at,Accenture
+959,Companies worked at,Accenture
+960,Email Address,"indeed.com/r/Ramya-P/00f125c7b9b95a35
+"
+961,Location,Hyderabad
+962,Name,Ramya. P
+963,Companies worked at,SAP EWM
+964,Skills,"
+• SAP Knowledge: SAP EWM, SAP WM, SAP SD, SAP MM, SAP AFS, SAP PP, SAP XI
+• Computing languages: SQL, MS-Office, Open office, HTML, PHP"
+965,Skills,"Professional competencies
+Business /IT Consulting Configuration/ Support Requirements/ Blue print /Gap Analysis
+Coding/Debugging Change Management Functional/ Technical Spec Design
+"
+966,Graduation Year,2005
+967,College Name,Anna University
+968,Degree,Bachelor of Technology in Information Technology
+969,Graduation Year,2007
+970,Graduation Year,2005
+971,College Name,Anna University
+972,Degree,Master of Engineering in Computer and Communication
+973,Graduation Year,2007
+974,Companies worked at,SAP EWM
+975,Companies worked at,SAP EWM
+976,Companies worked at,SAP EWM
+977,Companies worked at,SAP EWM
+978,Email Address,"indeed.com/r/R-Arunravi/0da1137537d8b159
+"
+979,Location,Bangalore
+980,Companies worked at,SAP EWM
+981,Designation,Functional Consultant / WM Lead 
+982,Name,R Arunravi
+983,Companies worked at,Microsoft
+984,Companies worked at,Microsoft
+985,Companies worked at,Microsoft
+986,Companies worked at,Microsoft
+987,Companies worked at,Microsoft
+988,Companies worked at,Microsoft
+989,Companies worked at,Microsoft
+990,Companies worked at,Microsoft
+991,Skills,SCOM
+992,Companies worked at,Microsoft
+993,Companies worked at,Microsoft
+994,Companies worked at,Microsoft
+995,Skills,Orchestrator SCSM
+996,Skills,OPERATIONS MANAGER
+997,Skills,SCOM
+998,Skills,OPERATIONS MANAGER
+999,College Name,Pune University
+1000,Degree,B.E.
+1001,Companies worked at,Microsoft
+1002,Companies worked at,Microsoft
+1003,Skills,SCOM
+1004,Email Address,indeed.com/r/Ravi-Shankar/befa180dc0449299
+1005,Companies worked at,Microsoft
+1006,Skills,SCOM
+1007,Companies worked at,Microsoft
+1008,Location,Pune
+1009,Location,Pune
+1010,Companies worked at,Microsoft
+1011,Companies worked at,Microsoft
+1012,Location,Pune
+1013,Location,Pune
+1014,Degree,B.E.
+1015,Location,Pune
+1016,Companies worked at,Microsoft
+1017,Email Address,indeed.com/r/Ravi-Shankar/befa180dc0449299
+1018,Location,Pune
+1019,Companies worked at,Microsoft
+1020,Designation,Working as Escalation Engineer
+1021,Name,Ravi Shankar
+1022,Email Address,indeed.com/r/Ravi-Shivgond/4018c67548312089
+1023,Location,Bidar
+1024,Skills,"AC (Less than 1 year), Allen Bradley (Less than 1 year), Engineer (Less than 1 year), FANUC
+(Less than 1 year), GE FANUC (Less than 1 year)"
+1025,Location,Bidar
+1026,Degree,B.E. in Electrical
+1027,College Name,Govt. High school Yernalli
+1028,Companies worked at,SAP 
+1029,Designation,Technical Support Engineer
+1030,Email Address,indeed.com/r/Ravi-Shivgond/4018c67548312089
+1031,Location,Bidar
+1032,Name,Ravi Shivgond
+1033,Graduation Year,2015
+1034,College Name,ITM University Gwalior
+1035,Degree,Bachelor of Engineering in Mechanical Eng
+1036,Graduation Year,2015
+1037,Graduation Year,2015
+1038,Companies worked at,INFOSYS LIMITED
+1039,Companies worked at,INFOSYS LIMITED
+1040,Designation,JAVA Developer/Senior Systems Engineer
+1041,Location,Itarsi
+1042,Companies worked at,INFOSYS LIMITED
+1043,Designation,JAVA Developer/Senior Systems Engineer
+1044,Name,Rohit Bijlani
+1045,Skills,OOPS-ABAP
+1046,Skills,SAP ABAP
+1047,Graduation Year,2010
+1048,College Name,Anna University Chennai 
+1049,Degree,B.Tech in Technology
+1050,Location,Kolkata
+1051,Companies worked at,SAP ABAP
+1052,Designation,Application Developer
+1053,Location,Kolkata
+1054,Companies worked at,SAP ABAP
+1055,Designation,Application Developer
+1056,Location,Kolkata
+1057,Companies worked at,SAP ABAP
+1058,Designation,Application Developer
+1059,Companies worked at,SAP ABAP
+1060,Designation,Application Developer
+1061,Location,Kolkata
+1062,Companies worked at,SAP ABAP
+1063,Designation,Application Developer
+1064,Location,Kolkata
+1065,Companies worked at,SAP ABAP
+1066,Designation,Application Developer
+1067,Email Address,indeed.com/r/Roshan-Sinha/ab398efcd288724f
+1068,Location,Kolkata
+1069,Companies worked at,SAP ABAP
+1070,Designation,Application Developer
+1071,Skills,OOPS-ABAP
+1072,Companies worked at,SAP ABAP
+1073,Designation,Application Developer
+1074,Location,Kolkata
+1075,Companies worked at,SAP ABAP
+1076,Designation,Application Developer
+1077,Designation,Application Developer
+1078,Designation,Application Developer 
+1079,Designation,Application Developer
+1080,Location,Kolkata
+1081,Companies worked at,SAP ABAP
+1082,Designation,Application Developer
+1083,Location,Kolkata
+1084,Email Address,indeed.com/r/Roshan-Sinha/ab398efcd288724f
+1085,Location,Kolkata
+1086,Companies worked at,SAP ABAP
+1087,Designation,Application Developer 
+1088,Designation,Application Developer
+1089,Name,Roshan Sinha
+1090,Skills,"Domain telecom
+
+Platform-windows
+
+Framework-filezilla, putty"
+1091,Skills,"CHANGE MANAGEMENT (Less than 1 year), Configuration Management (Less than 1 year), Git
+(Less than 1 year), Incident Management (Less than 1 year), Linux (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Operating Systems Windows 7, ubuntu Linux
+Configuration Management Git, svn
+Incident Management IBM i series 400
+
+Domain insurance
+
+Platform - Windows
+
+Framework-Group Asia
+
+Domian Telecom
+"
+1092,College Name,CDAC Mohali 
+1093,College Name,CDAC
+1094,Degree,Android
+1095,Graduation Year,2016
+1096,College Name,"Punjab Technical University
+"
+1097,Graduation Year,2016
+1098,College Name,Punjab Technical University (PTU)
+1099,Degree,"Bachelor of Engineering in Engineering
+"
+1100,College Name,CDAC
+1101,Degree,"
+Client-Server Architecture"
+1102,Email Address,indeed.com/r/Sai-Dhir/e6ed06ed081f04cf
+1103,Companies worked at,ORACLE -
+1104,Graduation Year,2016
+1105,Companies worked at,ORACLE -
+1106,Companies worked at,ORACLE -
+1107,Location,Pune
+1108,Companies worked at,Sasken Technologies Pvt. Ltd -  
+1109,Email Address,indeed.com/r/Sai-Dhir/e6ed06ed081f04cf
+1110,Name,Sai Dhir
+1111,Skills,"Languages Java, Java Script, PL/SQL, SQL SERVER, HTML, XML,
+XSLT
+Application Servers J Boss, Apache Tomcat, Web logic, IBM web sphere
+
+Databases Oracle, SQL SERVER
+
+Development Tools MVC, Singleton, Session Facade, DTO, DAO,
+
+Service Locator
+
+SOA Restful Web Service, Soap web service, JAX-RS, XML, JSON, WS
+Security, Mule ESB
+
+IDE's/TOOLS Eclipse, Mule Anypoint Studio
+
+Java/J2EETechnologies Java, Servlets, JSP, JDBC, EJB, JMS
+
+Protocols HTTP, FTP, TCP/IP
+
+Version Control tools CVS, SVN, GIT
+
+Build Tool Ant, Maven
+
+Bug Tracking Tools HP Quality Center, Rally
+
+Frameworks Spring, Hibernate, Struts, Spring MVC, Micro Services, EJB, JMS
+
+Operating Systems Windows, UNIX, LINUX"
+1112,Skills,"ORACLE (3 years), JAVA (3 years), SOAP (2 years), Subversion (2 years), SVN (2 years)"
+1113,Graduation Year,2011
+1114,College Name,Amrita School of Engineering
+1115,Degree,Bachelor of Technology in Technology
+1116,Graduation Year,2011
+1117,Companies worked at,Arrow Electronics Inc
+1118,Designation,"Software Engineer
+"
+1119,Companies worked at,Cisco Systems
+1120,Designation,"Software Engineer
+"
+1121,Companies worked at,Cisco Systems
+1122,Designation,"Software Engineer
+"
+1123,Companies worked at,Cisco Systems
+1124,Companies worked at,Cisco Systems
+1125,Companies worked at,Cisco Systems
+1126,Companies worked at,Cisco Systems
+1127,Designation,Mule ESB Integration Developer
+1128,Email Address,"indeed.com/r/Sai-Patha/981ba615ab108e29
+"
+1129,Location,Hyderabad
+1130,Companies worked at,Cisco Systems
+1131,Designation,Mule ESB Integration Developer
+1132,Name,Sai Patha
+1133,Graduation Year,2005
+1134,College Name,Adhiparasakthi Engineering College (Anna University)
+1135,Degree,"BACHELOR OF ENGINEERING in ELECTRONICS & COMMUNICATION
+ENGINEERING"
+1136,Graduation Year,2018
+1137,Location,Chennai
+1138,College Name,Great Lakes Institute Of Management
+1139,Degree,"Post Graduate Program in Business Analytics & Business Intelligence in
+BUSINESS"
+1140,Companies worked at,Infosys Limited
+1141,Designation,"Technology Lead / Analyst
+"
+1142,Companies worked at,Infosys Limited
+1143,Designation,Project Manager / Technology Lead
+1144,Companies worked at,Infosys Limited
+1145,Designation,Project Manager / Technology Lead
+1146,Location,Chennai
+1147,Years of Experience,13 years
+1148,Email Address,"indeed.com/r/Sai-Vivek-Venkatraman/
+a009f49bfe728ad1
+"
+1149,Location,Chennai
+1150,Companies worked at,Infosys Limited
+1151,Years of Experience,13 years
+1152,Name,Sai Vivek Venkatraman
+1153,Email Address,indeed.com/r/Sameer-Kujur/0771f65bfa7aff96
+1154,Skills,"Application Development, Software Testing"
+1155,College Name,"VSSUT,burla
+"
+1156,Degree,"Electrical engineering
+"
+1157,Companies worked at,Microsoft
+1158,Designation,"App develop
+"
+1159,Email Address,indeed.com/r/Sameer-Kujur/0771f65bfa7aff96
+1160,Location,Orrisha 
+1161,Name,Sameer Kujur
+1162,Skills,"Project Management, Product Marketing, Campaigns Management, Digital Marketing, Social
+Media Marketing, Marketing Operations, Content Marketing, Channels Operations, Marketo
+Admin User, Microsoft Office, Cross Functional Marketing, Salesforce, Marketing Programs,
+Global Marketing, Marketo, Training"
+1163,College Name,Mount Carmel Institute of Management
+1164,Degree,"Post Graduate Diploma in Business Administration in Marketing and
+Human Resource"
+1165,Email Address,"indeed.com/r/Samyuktha-Shivakumar/
+cabce09fe942cb85"
+1166,Location,Bangalore
+1167,Name,Samyuktha Shivakumar
+1168,Skills," Tools: ISPF, SPUFI, QMF, File-Aid, MainView, Librarian, CA7, Control-M, Xpeditor
+• Operating System: Windows 7
+• Database: DB2, SQL Server
+• Domain: Retail
+• Packages: MS office
+
+• Secondary Skills: Java Script, HTML, JSP, Java, Oracle 10g, Unix"
+1169,Skills,"CA7 (4 years), DB2 (4 years), QMF (4 years), Cobol (4 years), Mainframe (4 years), Cics (4
+years), Rexx (4 years)"
+1170,Graduation Year,2006
+1171,College Name,"S.R high School -  Chennai, Tamil Nadu
+"
+1172,Graduation Year,2009
+1173,College Name,Pratibha Junior College
+1174,Graduation Year,2013
+1175,College Name,GMR Institute of Technology and Management
+1176,Degree,B.Tech in Information Technology
+1177,Companies worked at,Infosys Limited 
+1178,Designation,Senior Systems Engineer
+1179,Location,Bengaluru
+1180,Email Address, indeed.com/r/Santosh-Ganta/4270d63f03e71ee8
+1181,Location,Bengaluru
+1182,Designation,Senior Systems Engineer
+1183,Name,Santosh Ganta
+1184,Skills,"BGP (2 years), EIGRP. (2 years), OSPF (2 years), security (2 years), vlan (2 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Network
+➢ Switching: CST, PVST, PVST+, RSTP and MST, VLAN, Private VLAN, Trucking, Inter-VLAN Routing,
+SPAN/RSPAN, Ether channel or Port Bundling using static and dynamic protocol (PAgP and LACP)
+➢ FHRP: HSRP (V1 & V2), VRRP and GLBP.
+➢ Routing: Configuration and Troubleshooting Layer 3 Routing protocols such as Static routing,
+floating routing, RIP, EIGRP, OSPF, BGP, VRF-Lite and MPLS.
+
+Data Security
+➢ Checkpoint Firewall: FW Monitor, TCP-Dumps, Rules, NAT, IPsec VPN, Backup & Restore, URL
+filtering, Installation, Migration, Upgradation, ClusterXL etc.
+➢ ASA Firewall: Access Control Lists with object, Address Translation, IPsec VPN, LAN-to-LAN VPN,
+High Availability in Active-Active & Active-Standby Mode, Redundant interface, SLA Monitoring,
+Security Contexts.
+➢ IOS Firewall: Standard and extended access list and Zone Based Firewall (ZBF), DMVPN, IPsec,
+IPsec over GRE.
+
+Services
+➢ Services: ARP, GARP, RARP, DNS, DHCP, FTP, TFTP, TCP, ICMP, TELNET, SSH, HTTP, HTTPS. IP
+SLA, NTP, SNMP"
+1185,College Name,Dr. R.M.L.S COLLEGE
+1186,Degree,H.S.C
+1187,Graduation Year, 2013
+1188,College Name,R.D.S COLLEGE 
+1189,Degree,Bachelor of Commerce in Commerce
+1190,Designation,Associate network engineer
+1191,Location,Muzaffarpur
+1192,Companies worked at,"TATA Communications Ltd
+"
+1193,Designation,Associate network engineer
+1194,Name,Sarfaraz Ahmad
+1195,Companies worked at,Cisco
+1196,Companies worked at,Cisco
+1197,Companies worked at,Cisco
+1198,Companies worked at,Cisco
+1199,Companies worked at,Cisco
+1200,Companies worked at,Cisco
+1201,Companies worked at,Cisco
+1202,Skills,"Virtualization VMware-VSphere, DVS, Cisco AVS, Cisco
+ACE
+
+SDN Cisco Application Centric Infrastructure
+(ACI)
+
+L2/L3 Protocols OSPF, EIGRP, MPLS, VLAN, VXLAN,
+STP, RSTP, VPC
+
+Metro Ethernet Protocols Carrier Ethernet protocols EVC, MPLS TP,
+PsudoWire, REP
+
+Traffic Generation Tools Traffic tools IXIA Iexplore and Smart Bit
+
+Testing Tools Wireshark and MIB Browser
+
+Network Products Cisco SDN ACI Fabric
+VMWare 5.5 and 6.0
+Cisco UCSD Orchestration
+Carrier Ethernet devices (CPT […]
+Cisco Metro Ethernet 2600
+Cisco routers GSR 12000, 7600
+Data center Virtualization using the ACE
+Nexus 5k and ACI 9K switches
+Cat 6500 and 3550 Switches"
+1203,Skills,"CPT (3 years), Data Center (4 years), Ethernet (3 years), testing (10+ years), Virtualization (7
+years)
+"
+1204,College Name,Dr MGR University Chennai
+1205,Degree,"B.Tech in Computer Science in Computer Science
+"
+1206,Companies worked at,Cisco
+1207,Companies worked at,Cisco
+1208,Companies worked at,Cisco
+1209,Companies worked at,Cisco
+1210,Designation,Technical Lead
+1211,Companies worked at,Aricent Group
+1212,Designation,Technical Lead
+1213,Companies worked at,Cisco
+1214,Companies worked at,Cisco
+1215,Companies worked at,Cisco
+1216,Designation,Technical Lead
+1217,Companies worked at,Cisco
+1218,Email Address,indeed.com/r/Senthil-Kumar/d9d82865dd38d449
+1219,Companies worked at,Cisco
+1220,Companies worked at,Cisco
+1221,Companies worked at,Cisco
+1222,Companies worked at,Cisco
+1223,Companies worked at,Cisco
+1224,Companies worked at,Cisco
+1225,Companies worked at,Cisco
+1226,Companies worked at,Cisco
+1227,Designation,Technical Lead
+1228,Designation,Senior Technical Lead
+1229,Email Address,indeed.com/r/Senthil-Kumar/d9d82865dd38d449
+1230,Companies worked at,Cisco
+1231,Companies worked at, HCL 
+1232,Designation,Technical Lead
+1233,Designation,Senior Technical Lead
+1234,Name,Senthil Kumar
+1235,Skills,"CRM (10+ years), CUSTOMER RELATIONSHIP MANAGEMENT (10+ years), TESTING (10+ years),
+UI (10+ years), USER INTERFACE (10+ years)
+"
+1236,Graduation Year,2003
+1237,College Name,"St. Joseph's convent school
+"
+1238,Graduation Year,2009
+1239,College Name,"Padmanava College of Engineering
+"
+1240,Degree,"B.E in CSE
+"
+1241,Companies worked at,SAP Labs 
+1242,Companies worked at,SAP Labs 
+1243,Companies worked at,SAP Labs 
+1244,Designation,Quality Engineer
+1245,Companies worked at,SAP AG
+1246,Designation,"Offshore SAP CRM Functional Consultant
+"
+1247,Email Address,Indeed: indeed.com/r/Shabnam-Saba/dc70fc366accb67f
+1248,Location,Bengaluru
+1249,Designation,"Offshore SAP CRM Functional Consultant
+"
+1250,Name,Shabnam Saba
+1251,Skills,"Classical and Interactive Reports
+• BDC's, LSMW, BAPI,
+• BADI, User Exits
+• Data Dictionary objects
+• Dialog Programming
+• ALE/ IDOCS
+• SAP Scripts, Smart Forms
+• Possess hands on skill set on SD & MM modules.
+• Experience on Unit testing (UT), functional testing (FT), UAT scripts and regression"
+1252,Graduation Year,2005
+1253,College Name,"JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY
+"
+1254,Degree,B-TECH
+1255,Designation,"Consultant
+"
+1256,Companies worked at,SAP ABAP
+1257,Companies worked at,SAP ABAP
+1258,Designation,"Consultant
+"
+1259,Companies worked at,SAP ABAP
+1260,Designation,"Consultant
+"
+1261,Companies worked at,SAP ABAP
+1262,Designation,"Consultant
+"
+1263,Companies worked at,SAP ABAP
+1264,Designation,"Consultant
+"
+1265,Companies worked at,SAP ABAP
+1266,Designation,"Consultant
+"
+1267,Companies worked at,SAP ABAP
+1268,Designation,"Consultant
+"
+1269,Designation,"Consultant
+"
+1270,Companies worked at,SAP ABAP
+1271,Location,Hyderabad
+1272,Location,Hyderabad
+1273,Location,Hyderabad
+1274,Companies worked at,SAP ABAP
+1275,Years of Experience, 8 years
+1276,Email Address,"indeed.com/r/Shaheen-Unissa/
+c54e7a04da30c354"
+1277,Location,Hyderabad
+1278,Designation,"Consultant
+"
+1279,Companies worked at,SAP ABAP
+1280,Name,Shaheen Unissa
+1281,College Name,Vignan Vidyalayam High School
+1282,Degree,SSC
+1283,College Name,Gowtham Jr. College -
+1284,Degree,MPC subject
+1285,College Name,M. V. G. R College of Engineering
+1286,Degree,"Bachelors in Computer Science
+"
+1287,Email Address,indeed.com/r/Sharan-Adla/3a382a7b7296a764
+1288,Designation,"Specialist II, Marketing"
+1289,Years of Experience,4yrs.
+1290,Email Address,indeed.com/r/Sharan-Adla/3a382a7b7296a764
+1291,Name,Sharan Adla
+1292,Skills,GIT
+1293,Skills,HTML
+1294,Skills,PHP
+1295,Skills,Web Development
+1296,Skills,Velocity
+1297,Skills,Android
+1298,Skills,Java
+1299,Skills, C
+1300,Skills,SQL
+1301,Skills, C
+1302,Skills,JSP
+1303,Skills,Java
+1304,Skills, C
+1305,Companies worked at,Amazon
+1306,Companies worked at,Amazon
+1307,Companies worked at,Amazon
+1308,Skills,Java
+1309,Companies worked at,Amazon
+1310,Companies worked at,Amazon
+1311,Skills,Java
+1312,Skills,Velocity
+1313,Companies worked at,Amazon
+1314,Companies worked at,Amazon
+1315,Companies worked at,Amazon
+1316,Skills,Android
+1317,Skills,Android
+1318,Skills,Android
+1319,Companies worked at,Greymeter.com
+1320,Designation,Online Content Writer
+1321,Designation,Online Content Writer
+1322,Skills,Database Management
+1323,Skills,C++
+1324,Skills,Velocity
+1325,Skills, C
+1326,Skills,Java
+1327,Skills,SQL
+1328,Skills,PHP
+1329,Skills,HTML
+1330,Skills,Git
+1331,Skills,ANDROID
+1332,Graduation Year,2017
+1333,College Name,"Kalinga Institute of Industrial Technology
+"
+1334,Degree,B.Tech
+1335,Skills,JSP
+1336,Skills,Java
+1337,Companies worked at,Amazon
+1338,Companies worked at,Amazon
+1339,Companies worked at,Amazon
+1340,Skills,Java
+1341,Companies worked at,Amazon
+1342,Companies worked at,Amazon
+1343,Skills,Java
+1344,Skills,Velocity
+1345,Companies worked at,Amazon
+1346,Companies worked at,Amazon
+1347,Companies worked at,Amazon
+1348,Graduation Year,2017
+1349,Years of Experience,6 months
+1350,Companies worked at,Amazon Development Centre
+1351,Companies worked at,Amazon
+1352,Companies worked at,Amazon
+1353,Designation,Software Development Engineer
+1354,Email Address,"indeed.com/r/Shreyanshu-
+Gupta/6bd08d76c29d63c7"
+1355,Companies worked at,Amazon Development Centre
+1356,Companies worked at,Amazon
+1357,Skills,Web Development
+1358,Skills,Velocity
+1359,Skills, C
+1360,Skills,Java
+1361,Years of Experience,6 months
+1362,Designation,Software Development Engineer
+1363,Name,Shreyanshu Gupta
+1364,Companies worked at,Oracle
+1365,Companies worked at,Oracle
+1366,Companies worked at,Oracle
+1367,Designation,Technical Consultant
+1368,Companies worked at,Oracle
+1369,Companies worked at,Oracle Fusion Middleware
+1370,Companies worked at,Oracle
+1371,Designation,Technical Consultant
+1372,Companies worked at,Oracle
+1373,Companies worked at,Oracle
+1374,Companies worked at,Oracle
+1375,Designation,Technical Consultant
+1376,Companies worked at,Oracle
+1377,Companies worked at,Oracle Fusion Middleware
+1378,Companies worked at,Oracle
+1379,Designation,Technical Consultant
+1380,Companies worked at,Oracle
+1381,Companies worked at,Oracle
+1382,Companies worked at,Oracle Fusion Middleware
+1383,Companies worked at,Oracle
+1384,Skills,Oracle
+1385,Skills,Oracle
+1386,Graduation Year,"Xml, Oracle MFT, Core Java, Oracle SOA, WSDL, ODI"
+1387,College Name,2015
+1388,Degree,CHHATTISGARH SWAMI VIVEKANANDA TECHNICAL UNIVERSITY
+1389,Companies worked at,C.S.
+1390,Companies worked at,Oracle Fusion Middleware
+1391,Years of Experience,Oracle
+1392,Companies worked at,2.5 years
+1393,Designation,Oracle
+1394,Companies worked at,Technical Consultant
+1395,Companies worked at,Oracle Fusion Middleware
+1396,Designation,Oracle
+1397,Companies worked at,Technical Consultant
+1398,Companies worked at,Oracle
+1399,Companies worked at,Oracle
+1400,Companies worked at,Oracle Fusion Middleware
+1401,Years of Experience,Oracle
+1402,Graduation Year,2.5 years
+1403,Companies worked at,2015
+1404,Designation,Oracle
+1405,Companies worked at,Technical Consultant
+1406,Companies worked at,Oracle Fusion Middleware
+1407,Location,Oracle
+1408,Companies worked at,Bilaspur
+1409,Companies worked at,Oracle Fusion Middleware
+1410,Years of Experience,Oracle
+1411,Name,2.5 years
+1412,Skills,Shrishti Chauhan
+1413,Graduation Year,"
+Html, Css, Javascript, Salesforce"
+1414,College Name,2009
+1415,Graduation Year,"
+St. John's School
+"
+1416,College Name,2016
+1417,Degree,"National Institute Of Technology
+"
+1418,Graduation Year,B.Tech in EEE
+1419,Location,2016
+1420,Designation,Mysore
+1421,Designation,System Engineer
+1422,Designation,System Engineer
+1423,Designation,System Engineer
+1424,Years of Experience,System Engineer
+1425,Email Address, 2.0 Years
+1426,Location,"indeed.com/r/Shubham-Mittal/4b29ab0545b0f67f
+"
+1427,Companies worked at,Mysore
+1428,Designation, Infosys Limited
+1429,Name,System Engineer
+1430,Skills,Shubham Mittal
+1431,College Name,"TECHNICAL SKILLS:
+Platforms Windows, Unix, Linux
+Scripting Language PowerShell scripting, Shell scripting.
+Databases Oracle, SQL Server
+Build Tools Maven, Ant, MSBuild, Nant
+CICD Tools CloudBees Jenkins, TFS, GIT, SVN, Octopus, Jira, , Sonarqube, MSTest, Nexus,
+Artifactory, Cobertura, Ansible"
+1432,Degree,Saranathan College of Engineering 
+1433,Location,"Bachelor in ""Instrumentation and Control Engineering""
+"
+1434,Companies worked at,Chennai
+1435,Designation,Infosys Limited 
+1436,Companies worked at,Technology Analyst
+1437,Designation,Infosys Limited 
+1438,Location,"DevOps Consultant
+"
+1439,Name,Chennai
+1440,Companies worked at,Sivaganesh Selvakumar
+1441,Companies worked at,Cisco 
+1442,Companies worked at,Cisco 
+1443,Email Address,Cisco 
+1444,Companies worked at,indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42
+1445,Skills,Cisco 
+1446,College Name,"Architecture (Less than 1 year), BGP (Less than 1 year), DHCP (Less than 1 year), DNS (Less
+than 1 year), EIGRP (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+• Layer 2 Technologies like VTP, VLAN, STP, and RSTP.
+• OSI Architecture, TCP/IP Module
+• TCP/UDP, DHCP, DNS
+• MP-BGP IPv4/IPv6, VPNv4, VPNv6, RT-Filter, IPv6-Multicats.
+• Access-List, Prefix-List, Distribution List, QOS.
+• MPLS, L2/L3 VPN.
+• GRE, IPSec, DMVPN.
+• FTP-Active/Passive, TFTP.
+• Configuring and Troubleshooting L2 and L3 Ether channels on Cisco 3550, 3560, 2950 switches.
+• IP Addressing, VLSM, Summarization, understanding Lease Line and Dedicated Lease Lines.
+
+https://www.indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42?isid=rex-download&ikw=download-top&co=IN
+
+
+• Configuring HSRP, VRRP, GLBP on Cisco Routers and Switches.
+• VTP & Frame Tagging protocols ISL, Dot1q
+• NAT, PAT, NAT-T.
+• Strong skills in Configuring Cisco Routers (ASR901, ASR903, ASR900) using ISIS, OSPF, EIGRP
+and BGP. A good understanding of working on Small to High E1nd Routers and Switches.
+• Comprehensive understanding of networking concepts pertaining to LAN, WAN, Security, IT
+communication, WAN protocols, Networking devices administration and maintenance in multi-
+platform environments.
+• Strong hands-on technical knowledge of Microsoft Operating Systems (Network & Desktop),
+establishing & managing networks, Cisco Routers, Hardware clients & switches.
+• Expertise in managing medium to large networks with Routers, Switches."
+1447,Degree,Shivaji University
+1448,College Name,B.E in Electronics & Telecommunication
+1449,Degree,"Maharashtra Board
+"
+1450,College Name,"SSC
+"
+1451,Degree,"Maharashtra Board
+"
+1452,Companies worked at,HSC
+1453,Location,Cisco 
+1454,Companies worked at,Mumbai
+1455,Designation,Cisco 
+1456,Email Address,"L1 network engineer
+"
+1457,Location,indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42
+1458,Name,Mumbai
+1459,Companies worked at,"Snehal Jadhav
+"
+1460,Companies worked at,Microsoft
+1461,Skills,Microsoft
+1462,Graduation Year,"
+Linux (Less than 1 year), Microsoft Office (Less than 1 year), MS OFFICE (Less than 1 year),
+problem solving (Less than 1 year)"
+1463,Degree,"
+2007"
+1464,Graduation Year,"State Board
+"
+1465,College Name,"
+2008"
+1466,Degree,Frankfinn Institute of Airhostess Training 
+1467,Graduation Year,BTEC HNC in Aviation in Hospitality and Travel Management
+1468,College Name,2013
+1469,Degree,Vivekananda Engineering College for Women
+1470,Companies worked at,BE in Computer Science and Engineering
+1471,Graduation Year,Microsoft
+1472,Companies worked at,2013
+1473,Companies worked at,Microsoft
+1474,Companies worked at,Microsoft
+1475,Companies worked at,Microsoft
+1476,Companies worked at,Microsoft
+1477,Companies worked at,Microsoft
+1478,Designation,Microsoft
+1479,Email Address,"Technical support engineer
+"
+1480,Location,"indeed.com/r/Soumya-
+Balan/97ead9542c575355"
+1481,Designation,Sulthan Bathery
+1482,Name,IT SUPPORT
+1483,Graduation Year,Soumya Balan
+1484,Skills,2007
+1485,Graduation Year,"DBMS, O365, Communication Skills, Exchange 2013, Hospitality, Networking, Computer
+Operating, Programming, Computer Hardware, Java, Exchange 2010, Teaching
+
+ADDITIONAL INFORMATION
+
+Skill Set
+➢ Excellent communication and interpersonal skills."
+1486,Degree,2007
+1487,Graduation Year,"State Board +2
+"
+1488,College Name,2008
+1489,Degree,Frankfinn Institute of Airhostess Training
+1490,Graduation Year,BTEC HNC in Aviation
+1491,College Name,"2013
+"
+1492,Graduation Year,Vivekananda Engineering College for Women
+1493,Graduation Year,"2013
+"
+1494,Designation,2007
+1495,Location,Technical Support Engineer
+1496,Companies worked at,Thiruvananthapuram
+1497,Years of Experience,"Microsoft Corporation
+"
+1498,Degree,3 yr
+1499,Name,BE Computer Science 
+1500,Name,Soumya Balan
+1501,Skills,Soumya Balan
+1502,Skills,ERP
+1503,Skills,"Microsoft office, ERP, Oracle SQL"
+1504,Skills,Microsoft office
+1505,Skills,MS OFFICE
+1506,Skills,Microsoft office
+1507,Skills,ERP
+1508,Skills,ERP
+1509,Skills,ENTERPRISE RESOURCE PLANNING
+1510,College Name,EMPLOYEE RESOURCE GROUP
+1511,Graduation Year,Avinashilingam Deemed University
+1512,College Name,2010
+1513,Graduation Year,S.B.K.V higher secondary school
+1514,College Name,2015
+1515,Degree,"Avinashilingam Institute for Home Science & Higher Education for Women
+"
+1516,Companies worked at,"MBA in Finance and sectorial specialisation
+"
+1517,Designation,Oracle India Pvt ltd
+1518,Location,Finance Analyst
+1519,Designation,Hyderabad
+1520,Name,Finance Analyst
+1521,Companies worked at,Sowmya Karanth
+1522,Companies worked at,Oracle
+1523,Companies worked at,Oracle
+1524,Companies worked at,Oracle
+1525,Skills,Oracle
+1526,Skills,"Databases (Primary): Teradata, Oracle (SQL, PL/SQL)
+• OS: Unix, Windows, Mac OS
+• Teradata Tools & Utilities: BTEQ, Muti Load, Fast Load, Tpump, TPT.
+• Reporting Tools: BO Reporting, Crystal Report, Universe design tool, BOBJ Migration tool
+• Other Tools: Radar, Espresso, SQL Workbench, SQL Developer, ETL Metadata UI, iCheck, Global
+deployment tool, Ms office, Power Point, Ms Excel, Workload Automation.
+• Applications: Central Station, GitLab, SVN."
+1527,Degree,"RETAIL (2 years), RETAIL MARKETING (2 years), TERADATA (2 years), ACCEPTANCE TESTING
+(Less than 1 year), APS (Less than 1 year)
+"
+1528,College Name,"CBSE
+"
+1529,Degree,ODM Pubic school
+1530,Graduation Year,"CBSE
+"
+1531,College Name,2015
+1532,Degree,College of engineering
+1533,Graduation Year,"B-tech in Electronics and Telecommunication
+"
+1534,Designation,2015
+1535,Companies worked at,software engineer 
+1536,Graduation Year,Oracle
+1537,Companies worked at,2015
+1538,Designation,Oracle
+1539,Email Address,"software engineer
+"
+1540,Location,"indeed.com/r/Srabani-
+Das/152269fb5b986c26"
+1541,Companies worked at,Bishnupur
+1542,Designation,Oracle
+1543,Name,software engineer 
+1544,Skills,Srabani Das
+1545,College Name,"Testing (10+ years), Program Management (10+ years), Automation Testing (10+ years),
+Selenium Webdriver (4 years), Project Management (10+ years), Java (10+ years), AWS (10+
+years), Cloud Computing (4 years)
+"
+1546,Degree,Kakatiya University
+1547,College Name,"BSC in Computer science
+"
+1548,Degree,Nagarjuna University
+1549,Designation,MSC in Computer science
+1550,Location,Sr. Test Manager
+1551,Designation,Mumbai
+1552,Email Address,QA Manager
+1553,Email Address,indeed.com/r/Srinivas-VO/39c80e42cb6bc97f
+1554,Location,indeed.com/r/Srinivas-VO/39c80e42cb6bc97f
+1555,Designation,Mumbai
+1556,Name,Sr. Test Manager
+1557,Skills,Srinivas VO
+1558,Email Address,"Associate (Less than 1 year), CSS. (Less than 1 year), HTML5 (Less than 1 year), Java (Less
+than 1 year), JavaScript (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILL SET:
+
+• Programming Languages: C, Java, JavaScript, SQL.
+• Web Technologies: HTML5, CSS.
+• Working Platform: Windows, Linux."
+1559,Graduation Year,indeed.com/r/Srushti-Bhadale/ffe3d9f99a4b3322
+1560,College Name,2011
+1561,Degree,Convent Girls' High School
+1562,Graduation Year,SSC
+1563,College Name,2013
+1564,Degree,D.G Ruparel College
+1565,Companies worked at,HSC
+1566,Designation,Oracle Financial Services
+1567,Companies worked at,Associate Consultant
+1568,Designation,Oracle Financial Services
+1569,Location,Associate Consultant
+1570,Location,Mumbai
+1571,Email Address,Mumbai
+1572,Location,indeed.com/r/Srushti-Bhadale/ffe3d9f99a4b3322
+1573,Name,Mumbai
+1574,Skills,Srushti Bhadale
+1575,College Name,"Oracle Apps DBA Release Enginner
+"
+1576,Graduation Year,Visveswaraiah Technological University -
+1577,College Name,"2005
+"
+1578,Degree,B V Bhoomaraddi College of Engg and Technology Hubli
+1579,Email Address,"Bachelor of Engineering (Information Science) in Information Science
+"
+1580,Skills,indeed.com/r/Sudaya-Puranik/eaf5f7c1a67c6c38
+1581,Companies worked at,"Databases: Oracle 9i/10g, MySql
+Languages: PL/SQL, Shell Script.
+Frameworks and Portals: Oracle ADF
+Server side Technology: J2ee,
+IDE: Jdeveloper 10.x"
+1582,Location,Oracle India Private Limited
+1583,Location,Bengaluru
+1584,Email Address,Bengaluru
+1585,Location,indeed.com/r/Sudaya-Puranik/eaf5f7c1a67c6c38
+1586,Companies worked at,Bengaluru
+1587,Designation,Company 1
+1588,Name,Principal Engineer Technical Staff 
+1589,Skills,Sudaya Puranik
+1590,Skills,Windows
+1591,Skills,"Microsoft Word, Excel, Power point"
+1592,Skills,Tally
+1593,Skills,SAP
+1594,Graduation Year,SAP
+1595,Location,2012
+1596,Location,Pune
+1597,Degree,Pune
+1598,Graduation Year,"B.com
+"
+1599,Location,"2013
+"
+1600,Location,Pune
+1601,College Name,Pune
+1602,Graduation Year,"Maharashtra State Government, Pune University"
+1603,College Name,2014
+1604,Skills,"Indian Institute Of Company Secretory Of India (Appeared)
+"
+1605,Location,SAP
+1606,Skills,Pune
+1607,Designation,SAP
+1608,Skills,FI Support Consultant
+1609,Location,SAP
+1610,Skills,Pune
+1611,Skills,SAP
+1612,Skills,SAP
+1613,Email Address,SAP
+1614,Location,"indeed.com/r/Sumit-Kubade/256d6054d852b2a7
+"
+1615,Skills,Pune
+1616,Designation,SAP
+1617,Skills,FI Support Consultant
+1618,Name,SAP
+1619,Graduation Year,Sumit Kubade
+1620,Graduation Year,2005
+1621,Graduation Year,2005
+1622,Graduation Year,2005
+1623,Skills,2005
+1624,Skills,"
+side debugging.
+• Hands on experience of Visual Studio debugger for debugging on Windows
+platform.
+• Working experience of Multithreaded applications for more than eight years
+• Good understanding of OOPS Design principles and STL.
+• Experienced in using various debuggers that include GDB debugger, Eclipse, VC++ IDE, Trace
+32, WinDbg, Visual Studio.
+• Good knowledge of Big data technologies(Hadoop, Yarn Architecture, map-
+reduce, Hive, Sqoop, Hbase, Zookeeper)
+• Good experience in Hadoop development and Admin activities.
+• Able to understand and review Java and Scala code
+• Good Exposure to Software practices, SDLC.
+• Good understanding and porting knowledge of framework components.
+• Good understanding of multimedia concepts, Audio video synchronization,
+AudioOut, AudioIn and video zoom.
+• Knowledge of WEBRTC features.
+• Good knowledge of video Engine.
+• Basic knowledge of MFC, socket programming.
+• Good knowledge in programming and operating system concepts.
+• Experience in working in a project from product development phase to
+commercialization phase.
+• Successfully commercialized more than 25 million mobiles spanning across
+twenty models.
+• Good global work exposure having worked in different work environments.
+• Basic understanding of Linux Operating system.
+• Experienced in design and implementation of Multimedia Applications for
+Mobile handsets.
+• Good experience working on Smart Phone platforms(Framework, Middleware
+and Application development) having worked on various mobile platforms
+SHP, Samsung Bada, Linux, WindowsMobile5.0, SLP, Android and Tizen.
+Syam Prasad Devendla
+• Good knowledge and understanding of different frameworks for multimedia.
+• Good knowledge of multi-threaded programming and IPC mechanisms.
+• Excellent interpersonal and communication skills and ability to work in a team.
+• Skilled at learning new concepts quickly, working well under pressure, and
+communicating ideas clearly and effectively.
+• Tools Used: Beyond Compare, Samsung memory leak tool, and Samsung code
+coverageTool, VS 2005 Remote Tools, KlocWork, WinShark and Ethereal.
+• Experienced in working with configuration tools like VSS, Perforce, and Clear
+Case.
+
+• Operating Systems: Windows, Ubuntu Linux
+• Mobile Platforms: SHP, Bada, Linux, WindowsMobile5.0, SLP and Tizen
+• Technology: Multimedia, Content, Mobile Applications
+• Languages: C, C++(Data Structures, Design Patterns, STL)
+• Tools: Eclipse, VS2005, VS2010
+KlocWork, Clear case, Perforce"
+1625,Graduation Year,"
+.NET (Less than 1 year), ALGORITHMS (Less than 1 year), ALSA (Less than 1 year), ANDROID
+(Less than 1 year), APACHE HADOOP HDFS (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Core Competencies
+
+• Extensively worked in C, C++
+• Good understanding of Data Structures and Algorithms
+• Good understanding and knowledge of BI Analytics of OBIEE.
+• Codes at HackerRank.com and am a 4 Star Rank coder in algorithms, coded
+using C++ STL
+• Hands on experience of GDB Debugger for Core dump analysis and Server
+"
+1626,College Name,2005
+1627,Degree,"Nagarjuna University
+"
+1628,Graduation Year,"Bachelor of Technology in Electronics and Communications
+"
+1629,College Name,2006
+1630,Degree,CDAC
+1631,Location,Post Graduate Diploma in Embedded Systems
+1632,Companies worked at,Bengaluru
+1633,Designation,Oracle India 
+1634,Email Address,SMTS
+1635,Location," indeed.com/r/Syam-Devendla/
+c9ba7bc582b14a7b
+"
+1636,Name,Bengaluru
+1637,Skills,Syam Devendla
+1638,Skills,"Databases: Oracle &SQL Server
+Operating System: MS-DOS, Windows 98/XP &UNIX, Windows 7
+Languages: C, C++
+Testing Tools: Q.T.P, Win Runner7.5, Load Runner 9.5
+Networking: Hands on Experience On Cisco devices, AAA, TACACS, RADIUS, VPNs
+Security: Security scans using Nessus and Retina tools, Penetration
+testing using Proxy and SSL scans, GAP Analysis using CSERV"
+1639,College Name,"Gap Analysis (5 years), Nessus (5 years), Security (5 years), SSL (5 years), testing (5 years)"
+1640,Degree,Jawaharlal Nehru Technological University
+1641,College Name,"M.Tech in Power Electronics and Instrumentation Engineering
+"
+1642,Degree,Pondicherry University
+1643,Email Address,B.Tech in Electrical and Electronics Engineering
+1644,Location,indeed.com/r/Tejasri-Gunnam/6ef1426c95ee894c
+1645,Companies worked at,Bengaluru
+1646,Location,Cisco SystemsIndPvtLtd
+1647,Companies worked at,Bengaluru
+1648,Email Address,Cisco SystemsIndPvtLtd
+1649,Location,indeed.com/r/Tejasri-Gunnam/6ef1426c95ee894c
+1650,Name,Bengaluru
+1651,Graduation Year,Tejasri Gunnam
+1652,College Name,2011
+1653,Degree,College of Engineering
+1654,Companies worked at,B Tech Honors in Technical
+1655,Companies worked at,Oracle 
+1656,Companies worked at,Oracle 
+1657,Graduation Year,Oracle 
+1658,Companies worked at,2011
+1659,Designation,Oracle 
+1660,Email Address,"Business Development Rep
+"
+1661,Companies worked at,indeed.com/r/Urshila-Lohani/ab8d3dc6dd8b13f0
+1662,Designation,Oracle 
+1663,Designation,Account Manager
+1664,Location,Account Manager
+1665,Companies worked at,Gurgaon
+1666,Designation,MongoDB
+1667,Email Address,Senior Corporate Account Executive
+1668,Location,indeed.com/r/Urshila-Lohani/ab8d3dc6dd8b13f0
+1669,Companies worked at,Gurgaon
+1670,Designation,MongoDB
+1671,Designation,Senior Corporate Account Executive 
+1672,Name,Senior Corporate Account Executive
+1673,Skills,Urshila Lohani
+1674,College Name,"Analytics, Research"
+1675,Degree,Shri gnanambika degree college
+1676,Companies worked at,Bsc
+1677,Designation,Microsoft
+1678,Location,"Software developer
+"
+1679,Email Address,hyderbad
+1680,Location,"indeed.com/r/Vamsi-krishna/15906b55159d4088
+"
+1681,Name,hyderbad
+1682,Skills,Vamsi krishna
+1683,Graduation Year,"Programming • JAVA, C++, C, Matlab, SQL
+
+Operating System • Windows, Linux
+"
+1684,College Name, 2004
+1685,Degree,Indian Institutes of Technology IIT Kanpur
+1686,Graduation Year,Bachelor of Technology in Civil Engineering
+1687,College Name,2010
+1688,Degree,University of Chicago
+1689,Graduation Year,"Master of Science in Financial Mathematics
+"
+1690,Designation, 2004
+1691,Companies worked at,Software Engineer
+1692,Designation,Tavant
+1693,Email Address,Software Engineer
+1694,Designation,"ndeed.com/r/VARUN-AHLUWALIA/725d9b113f3c4f0c
+"
+1695,Name,Quantitative Analyst
+1696,Name,VARUN AHLUWALIA
+1697,Companies worked at,Vijayalakshmi Govindarajan
+1698,Companies worked at,SAP Basis
+1699,Companies worked at,SAP Basis
+1700,Companies worked at,SAP Basis
+1701,Companies worked at,SAP Basis
+1702,Companies worked at,SAP Basis
+1703,Skills,SAP Basis
+1704,College Name,"JAVA (6 years), ORACLE (6 years), SAP (6 years), ABAP (Less than 1 year), ACCESS (Less than 1
+year)
+"
+1705,Degree,TVS Lakshmi Matriculation Higher Secondary School
+1706,College Name,SSLC
+1707,Degree,TVS Lakshmi Matriculation Higher Secondary School
+1708,College Name,HSC
+1709,Degree,Sri Sathya Sai Institute of Higher Learning 
+1710,College Name,BSc
+1711,Degree,Thiagarajar School of Management 
+1712,Companies worked at,"MCA in Computer Applications
+"
+1713,Email Address,SAP Basis
+1714,Location,"indeed.com/r/Vijayalakshmi-Govindarajan/
+d71bfb70a66b0046"
+1715,Companies worked at,"Chennai,"
+1716,Designation,SAP Basis
+1717,Name,SAP as a Consultant 
+1718,Skills,Vijayalakshmi Govindarajan
+1719,Graduation Year,"SECURITY (5 years), INFORMATION SECURITY (5 years), ACTIVE DIRECTORY (3 years), UNIX
+(Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+● Operating Systems: Windows, Solaris
+● Languages: Python, Core Java, SQL, Unix
+● Software: Sailpoint IIQ, Oracle IAM, Beeline, SAP, Active Directory, Phantom, Quest change
+auditor, Microsoft Office Suite
+● Information Security: Concepts and best practices"
+1720,College Name,2013
+1721,Degree,GLA Institute of Technology and Management
+1722,Companies worked at,Bachelor of Technology in Electronics and Communication Engineering
+1723,Graduation Year,Infosys Limited 
+1724,Location,2013
+1725,Location,Chandigarh
+1726,Companies worked at,Chandigarh
+1727,Graduation Year,Infosys Limited 
+1728,Location,2013
+1729,Location,Chandigarh
+1730,Companies worked at,Chandigarh
+1731,Designation,Infosys Limited 
+1732,Graduation Year,"
+Technology Analyst
+"
+1733,Email Address,2013
+1734,Location,"indeed.com/r/Vikas-Singh/8644db42854c4f6a
+"
+1735,Location,Chandigarh
+1736,Name,Chandigarh
+1737,Skills,Vikas Singh
+1738,Years of Experience,"Programming Languages Python, TCL, Power Query, SQL, Shell Scripting, C#
+Concepts Networking, WAAS (Wan Optimization), WAAS on Router, WAE(Wide Area Engine),
+WCCP Protocol,
+Automation Framework ATS (Automated Test System), Selenium Testing Framework
+IDE(Integrated Development Environment) Eclipse, Pycharm, Pydev[Plugin for eclipse IDE]
+Software
+Eclipse CDETS & Rally (Bug Tracking), eARMS (Regression testing), ACME(Versioning),
+TIMS(Reporting), HTMLTestRunner, Power Query(Automation), ARAS PLM(Product Lifecycle
+Management), AML Studio (adaptive markup language)
+
+Operating Systems Windows XP/10, Linux"
+1739,Years of Experience,4 years
+1740,Years of Experience,4 years
+1741,Years of Experience,4 years
+1742,Skills,4 years
+1743,Graduation Year,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)"
+1744,College Name,2007
+1745,Graduation Year,"Day Adventist Matric Hr.Sec School
+"
+1746,College Name,2011
+1747,Degree,"ANNA University
+"
+1748,Companies worked at,B.E in CSE
+1749,Graduation Year,Cisco Systems
+1750,Companies worked at,2011
+1751,Companies worked at,"Automation & Testing
+"
+1752,Companies worked at,Cisco Systems
+1753,Companies worked at,"Automation & Testing
+"
+1754,Companies worked at,Cisco Systems
+1755,Companies worked at,"Automation & Testing
+"
+1756,Designation,"Automation & Testing
+"
+1757,Companies worked at,Lead Engineer
+1758,Companies worked at,Cisco Systems
+1759,Designation,"Automation & Testing
+"
+1760,Years of Experience,Lead Engineer
+1761,Email Address,4 years
+1762,Location,"Indeed: indeed.com/r/Yasothai-Jayaramachandran/
+c36e76b64d9f477f"
+1763,Companies worked at,Chennai
+1764,Designation,"Automation & Testing
+"
+1765,Name,Lead Engineer
+1766,Skills,Yasothai Jayaramachandran
+1767,Skills,"Reporting Tools BIRT, Cognos (Basics)
+Database Oracle
+
+Operating Systems Windows
+Languages SQL, JavaScripting
+Web Technologies Tools HTML SQL Developer, Eclipse"
+1768,Location,"CODA (4 years), Cognos (4 years), Database (4 years), Eclipse (Less than 1 year), IBM COGNOS
+(4 years)"
+1769,College Name,Namakkal
+1770,Graduation Year,Government Boys Higher Secondary School 
+1771,College Name,2012
+1772,Degree,Nandha Engineering College
+1773,Designation,"Bachelor of Engineering in Electronics and Communication in Electronics
+and Communication
+"
+1774,Companies worked at,Maximo Consultant
+1775,Designation,Infosys Limited
+1776,Email Address,Maximo Consultant
+1777,Companies worked at,indeed.com/r/Yathishwaran-P/a9c8d42210af40b8
+1778,Designation,Infosys Limited
+1779,Companies worked at,Maximo Consultant
+1780,Designation,Infosys Limited
+1781,Email Address,Maximo Consultant
+1782,Location,indeed.com/r/Yathishwaran-P/a9c8d42210af40b8
+1783,Companies worked at,Namakkal
+1784,Designation,Infosys Limited
+1785,Name,Maximo Consultant
+1786,Skills,Yathishwaran P
+1787,Skills,Responsibility and patience to do work assigned by superiors.
+1788,Skills,Good knowledge about Technology and interest towards new learning.
+1789,Skills,"Proficiency in Communication skills, Positive attitude"
+1790,Skills,"Initiative, Leadership Qualities and Team spirit"
+1791,Graduation Year,"C+ (Less than 1 year), Citrix (Less than 1 year), integration (2 years), INTEGRATOR (2 years),
+Java (2 years)
+"
+1792,College Name,2006
+1793,Graduation Year,Hosanna National High School
+1794,College Name,2012
+1795,Degree,Vidya Bharati Institute Of Technology -  Hindupur
+1796,Designation,"B. Tech in ECE
+"
+1797,Companies worked at,Developer
+1798,Designation,"Infosys Limited
+"
+1799,Years of Experience,Developer
+1800,Email Address,4.6 years
+1801,Location,"indeed.com/r/Yogi-Pesaru/2ed7aded59ecf425
+"
+1802,Companies worked at,Hyderabad
+1803,Designation,"Infosys Limited
+"
+1804,Name,Developer
+1805,Years of Experience,Yogi Pesaru
+1806,Skills,5 Years 11 Months
+1807,Skills,"Languages and Software
+C, C#.net, Asp.net MVC 5, Entity Framework 6, Microsoft Office, Microsoft SharePoint 2010,
+Microsoft SharePoint 2013, Microsoft, SharePoint Designer, Microsoft Visual Studio 2008,
+Microsoft Visual Studio 2010, Microsoft Visual Studio 2012, InfoPath, HTML, CSS, JavaScript,
+jQuery, SharePoint Apps using MVC and KnockoutJS, Nintex forms and Workflows, Azure
+
+MSBI SQL Server 2008, SQL Server 2012, SSIS, SSRS
+Operating System Windows Family"
+1808,Companies worked at,"MICROSOFT SHAREPOINT (7 years), SHAREPOINT (7 years), .NET (6 years), MICROSOFT VISUAL
+STUDIO (6 years), VISUAL STUDIO (6 years)"
+1809,Designation,"Microsoft SharePoint -
+"
+1810,Companies worked at,Microsoft InfoPath Designer
+1811,Designation,"Microsoft SharePoint -
+"
+1812,Companies worked at,Microsoft InfoPath Designer
+1813,Companies worked at,"Microsoft SharePoint -
+"
+1814,Companies worked at,"Microsoft SharePoint -
+"
+1815,Location,"Microsoft SharePoint -
+"
+1816,Companies worked at,Pune
+1817,Companies worked at,Infosys LTD
+1818,Location,Infosys LTD
+1819,Companies worked at,Pune
+1820,Location,Infosys LTD
+1821,Companies worked at,Pune
+1822,Companies worked at,Infosys LTD
+1823,Email Address,Infosys LTD
+1824,Companies worked at,indeed.com/r/Anurag-Asthana/ea7451b2bdb6115a
+1825,Companies worked at,"Microsoft SharePoint -
+"
+1826,Companies worked at,Infosys LTD
+1827,Location,Infosys LTD
+1828,Companies worked at,Pune
+1829,Email Address,Infosys LTD
+1830,Location,indeed.com/r/Anurag-Asthana/ea7451b2bdb6115a
+1831,Name,Pune
+1832,Skills,Anurag Asthana
+1833,College Name,"C++, Hacking, Programming"
+1834,Degree,KGISL
+1835,Companies worked at,"BCA,MBA"
+1836,Email Address,"Apple , Google, Microsoft -"
+1837,Location,"indeed.com/r/Syed-Sadath-ali/cf3a21da22da956d
+"
+1838,Name,Coimbatore
+1839,Email Address,Syed Sadath ali
+1840,Skills,indeed.com/r/Nida-Khan/6c9160696f57efd8
+1841,Graduation Year,"Microsoft office, excel, cisco, c language, cbs. (4 years)"
+1842,College Name,2012
+1843,Degree,GNIT institute of Technology 
+1844,Companies worked at,Bachelor of Technology in Electronics & communication Engg
+1845,Designation,Teleperformance for Microsoft
+1846,Email Address,"
+Tech Support Executive"
+1847,Location,indeed.com/r/Nida-Khan/6c9160696f57efd8
+1848,Companies worked at,Jaipur
+1849,Designation,Teleperformance for Microsoft
+1850,Designation,Tech Support Executive 
+1851,Name,"
+Tech Support Executive"
+1852,Skills,Nida Khan
+1853,Skills,"• Good Communication Skill
+• Sincere
+• Hard working
+• Leadership skill
+• Pleasing personality
+• Problem solving capability
+"
+1854,Graduation Year,PROBLEM SOLVING (Less than 1 year)
+1855,College Name,2017
+1856,Degree,Madurai Kamaraj University
+1857,Graduation Year,"B.Com in Computer Application
+"
+1858,Location,2017
+1859,Graduation Year,"Trichur,"
+1860,Location,2017
+1861,Email Address,"Trichur,"
+1862,Location, indeed.com/r/Fenil-Francis/445e6b4cb0b43094
+1863,Designation,"Trichur,"
+1864,Name,"head of operation and logistics
+"
+1865,Skills,Fenil Francis
+1866,Skills,"Skills: JAVA, C#, WPF, XAML, Robot Framework, Scrum, Guice, ATDD, SOA, Fixed Income, CoreNLP,
+SOLID
+programming, OOPs, NLP, Microservice architecture."
+1867,Graduation Year,"C# (Less than 1 year), Java, OOPs, Guice, Microservice architecture, Software Development,
+XAML, ATDD, SOLID, SOA, Scrum, Robot Framework, TDD"
+1868,College Name,2016
+1869,Degree,GGSIPU
+1870,Graduation Year,"B.Tech(Computer Science) in CSE
+"
+1871,Email Address,2016
+1872,Location," indeed.com/r/Gaurav-Soni/d492b5b1697f7f66
+"
+1873,Name,New Delhi
+1874,Name,Gaurav Soni
+1875,Skills,Viny Khandelwal
+1876,College Name,"EXCHANGE (Less than 1 year), HTML (Less than 1 year), KITCHEN (Less than 1 year), LINUX
+(Less than 1 year), VMWARE (Less than 1 year)
+"
+1877,Degree,Nitte Meenakshi Institute of Technology
+1878,Designation,"Bachelor of Engineering in Digital Marketing
+"
+1879,Email Address,SELF EMPLOYED
+1880,Location," indeed.com/r/Viny-
+Khandelwal/02e488f477e2f5bc"
+1881,Designation,Kullu
+1882,Name,SELF EMPLOYED
+1883,Email Address,Viny Khandelwal
+1884,Graduation Year,indeed.com/r/amarjyot-sodhi/ba2e5a3cbaeccdac
+1885,College Name,2013
+1886,Degree,amity
+1887,Location,masters in journalism and communication in mass comm client servicing
+1888,Companies worked at,Faridabad
+1889,Designation,Shuttl
+1890,Email Address,Sales Associate
+1891,Location,indeed.com/r/amarjyot-sodhi/ba2e5a3cbaeccdac
+1892,Years of Experience,Faridabad
+1893,Degree,3 years
+1894,Designation,Masters in journalism and communication
+1895,Name,Voice and Accent Trainer
+1896,Skills,amarjyot sodhi
+1897,College Name,"Application Development, Software Testing"
+1898,Degree,"VSSUT,burla"
+1899,Companies worked at,Electrical engineering
+1900,Designation,Microsoft
+1901,Email Address,"
+App develop
+"
+1902,Location, indeed.com/r/Sameer-Kujur/0771f65bfa7aff96
+1903,Name,Orrisha
+1904,Location,Sameer Kujur
+1905,College Name,Hyderabad
+1906,Degree,Osmania University
+1907,Companies worked at,BSc
+1908,Designation,Microsoft -
+1909,Companies worked at,Technical Lead/Operations Manager
+1910,Designation,DELL EMC
+1911,Location,Technical Project Manager
+1912,Designation,Hyderabad
+1913,Name,Technical Project Manager
+1914,Skills,Zaheer Uddin
+1915,Degree,"ENGINEER (4 years), TESTING (Less than 1 year), UI (3 years), USER INTERFACE (Less than 1
+year), ANALOG (Less than 1 year)
+"
+1916,Email Address,"Master's
+"
+1917,Companies worked at,indeed.com/r/Abdul-B/eb2d7e0d29fe31b6
+1918,Location,"Wipro
+Technologies.
+"
+1919,Designation,Karnataka
+1920,Email Address,"Arabic Language Trainer
+"
+1921,Location,indeed.com/r/Abdul-B/eb2d7e0d29fe31b6
+1922,Location,Karnataka
+1923,Designation,Karnataka
+1924,Name,Arabic Language supporter (Content Analyst)
+1925,Graduation Year,Abdul B
+1926,College Name,2018
+1927,Degree,Calicut University
+1928,Companies worked at,MBA in marketing-tourism
+1929,Designation,Microsoft
+1930,Companies worked at,"Chief Coordinator of LEAR
+"
+1931,Designation,Microsoft
+1932,Email Address,"Chief Coordinator of LEAR
+"
+1933,Location,"indeed.com/r/Bike-Rally/e00d408e91e83868
+"
+1934,Designation,"Palghat,"
+1935,Name,"Chief Coordinator of LEAR
+"
+1936,Designation,Bike Rally
+1937,Designation,Technical Architect
+1938,Designation,Technical Architect
+1939,Designation,Technical Architect
+1940,Companies worked at,Technical Architect
+1941,Companies worked at,Microsoft
+1942,Companies worked at,Microsoft
+1943,Companies worked at,Microsoft
+1944,Companies worked at,Microsoft
+1945,Companies worked at,Microsoft
+1946,Companies worked at,Microsoft
+1947,Companies worked at,Microsoft
+1948,Companies worked at,Microsoft
+1949,Companies worked at,Microsoft
+1950,Companies worked at,Microsoft
+1951,Companies worked at,Microsoft
+1952,Companies worked at,Microsoft
+1953,Designation,Microsoft
+1954,Companies worked at,Technical Architect
+1955,Companies worked at,Microsoft
+1956,Companies worked at,Microsoft
+1957,Skills,Microsoft
+1958,College Name,"Azure (8 years), Asp.Net (8 years), C# (9 years), Web API (6 years), Sql (6 years), Technical
+Architect (5 years), Automation Testing (5 years)
+"
+1959,Companies worked at,C-DAC
+1960,Degree,Microsoft
+1961,Companies worked at,Bachelor of Engineering in Microsoft
+1962,Companies worked at,Microsoft
+1963,Companies worked at,Microsoft
+1964,Companies worked at,Microsoft
+1965,Designation,Microsoft
+1966,Location,Software Engineer 2
+1967,Companies worked at,Pune
+1968,Designation,Accenture Services
+1969,Email Address,Technical Architect
+1970,Companies worked at,indeed.com/r/Girish-Acharya/6757f94ee9f4ec23
+1971,Companies worked at,Microsoft
+1972,Companies worked at,Microsoft
+1973,Companies worked at,Microsoft
+1974,Companies worked at,Microsoft
+1975,Companies worked at,Microsoft
+1976,Companies worked at,Microsoft
+1977,Companies worked at,Microsoft
+1978,Email Address,Microsoft
+1979,Location,indeed.com/r/Girish-Acharya/6757f94ee9f4ec23
+1980,Designation,Pune
+1981,Designation,Technical Architect & Sr. Software Engineer
+1982,Name,Technical Architect
+1983,College Name,Girish Acharya
+1984,Degree,"NMKRV College, Bangalore University"
+1985,Location,"Bachelor's in Commerce
+"
+1986,Location,Bangalore
+1987,Location,Bangalore
+1988,Location,Bangalore
+1989,Location,Bangalore
+1990,Companies worked at,Bangalore
+1991,Designation,Microsoft GPS
+1992,Email Address,Microsoft Partner Readiness Operations Project Manager (APAC)
+1993,Location,"indeed.com/r/Asha-Subbaiah/f7489ca1bec4570b
+"
+1994,Companies worked at,Bangalore
+1995,Designation,Microsoft GPS
+1996,Name,Microsoft Partner Readiness Operations Project Manager (APAC)
+1997,Skills,Asha Subbaiah
+1998,College Name," Ability to work with team.
+❖ Good communication skills.
+❖ Good inter-personal skills.
+❖ Positive Attitude.
+❖ Hard & Smart Working.
+❖ Building good relationship with people.
+❖ Ability to work under tough situation.
+❖ Self-Motivator.
+"
+1999,Degree,JAIN COLLEGE
+2000,Companies worked at,B.COM
+2001,Companies worked at,Microsoft
+2002,Companies worked at,Microsoft
+2003,Designation,Microsoft
+2004,Email Address,"Front Office Executive
+"
+2005,Location," indeed.com/r/Divesh-Singh/a76ddf6e110a74b8
+"
+2006,Name,Bengaluru
+2007,College Name,Divesh Singh
+2008,Degree,"Trinity engineering college
+"
+2009,Companies worked at,btech
+2010,Designation,"Microsoft,Infosis, Google"
+2011,Companies worked at,software
+2012,Designation,"Microsoft,Infosis, Google"
+2013,Email Address,software
+2014,Location,"indeed.com/r/Ramesh-chokkala/16d5fa56f8c19eb6
+"
+2015,Name,Telangana
+2016,Skills,Ramesh chokkala
+2017,College Name,"Automation, Testing, Mobile Testing, SDET, Scrum Master"
+2018,Degree,Anna University
+2019,College Name,"Bachelor of Computer Science in Computer Science Engineering
+"
+2020,Degree,Product School
+2021,Companies worked at,"
+Software Product Management"
+2022,Designation,Microsoft
+2023,Location,"
+Consultant SDET"
+2024,Years of Experience,Chennai
+2025,Name,8+ Yrs
+2026,Skills,Ganesh AlalaSundaram
+2027,Skills,"computer and firesafety
+"
+2028,Companies worked at,"Telugu Hindi movie and English, cricket valiball"
+2029,Companies worked at,Microsoft
+2030,Designation,Microsoft
+2031,Email Address,"security officer
+"
+2032,Location,"indeed.com/r/Srinu-Naik-
+Ramavath/2d9f28ccfa115f79"
+2033,Name,Serilingampalle
+2034,Skills,Srinu Naik Ramavath
+2035,Graduation Year,"
+Sap Sd (7 years)"
+2036,College Name,2008
+2037,Degree,"Shri Vaishnav Institute of Technology and Science, RGPV University "
+2038,Graduation Year,"Bachelor of Engineering in Electronics and Communication
+"
+2039,College Name,2008
+2040,Degree,IIT Roorkee 
+2041,Companies worked at,MBA in Marketing
+2042,Companies worked at,Microsoft
+2043,Designation,Microsoft
+2044,Location,SAP SD lead
+2045,Email Address,Pune
+2046,Designation,indeed.com/r/Puneet-Bhandari/c9002fa44d6760bd
+2047,Companies worked at,SAP SD lead
+2048,Designation,Microsoft
+2049,Email Address,SAP SD lead
+2050,Location,indeed.com/r/Puneet-Bhandari/c9002fa44d6760bd
+2051,Companies worked at,Pune
+2052,Designation,Microsoft
+2053,Name,SAP SD lead
+2054,Location,Puneet Bhandari
+2055,Skills,Pune
+2056,Companies worked at,"SKILLS • Ability to build teams and motivate them towards team goals
+• Effective Communication skills
+• Able to handle and overcome objections
+• Ability to work effectively in a team environment
+• Ability to adapt to the changes in organization along with successful
+implementation of the change in the system"
+2057,Designation,"SITEL -
+"
+2058,Companies worked at,Service Desk Analyst
+2059,Companies worked at,Microsoft India -
+2060,Designation,Microsoft India -
+2061,Email Address,Operations Center Shift Manager (OCSM)
+2062,Designation,"indeed.com/r/Aarti-Pimplay/778c7a91033a71ca
+"
+2063,Name,Operations Center Shift Manager (OCSM)
+2064,Graduation Year,Aarti Pimplay
+2065,College Name,"2018
+"
+2066,Degree,Christ University Faculty of Engineering 
+2067,Companies worked at,B.Tech
+2068,Designation,Microsoft 
+2069,Email Address,"Volunteer Contestant, Yappon"
+2070,Location," indeed.com/r/Bangalore-
+Tavarekere/8fc92a48cbe9a47c
+"
+2071,Designation,Bengaluru
+2072,Name,"Volunteer Contestant, Yappon"
+2073,Email Address,Bangalore Tavarekere
+2074,College Name,indeed.com/r/Avani-Priya/fe6b4c5516207abe
+2075,Designation,br day public school
+2076,Email Address,JavaTally
+2077,Name,indeed.com/r/Avani-Priya/fe6b4c5516207abe
+2078,Skills,Avani Priya
+2079,Graduation Year,"Sql Server, Ssis, T-SQL, ETL, SSRS"
+2080,College Name,2010
+2081,Degree,East Point College of Engg. & Tech.
+2082,Location,Bachelor of Technology in Branch
+2083,Email Address,"Hyderabad,"
+2084,Location,indeed.com/r/Sanand-Pal/5c99c42c3400737c
+2085,Companies worked at,"Hyderabad,"
+2086,Designation,"
+TCS"
+2087,Email Address,Assistant Consultant
+2088,Location,indeed.com/r/Sanand-Pal/5c99c42c3400737c
+2089,Designation,"Hyderabad,"
+2090,Name,SQL and MSBI Developer
+2091,College Name,Sanand Pal
+2092,Degree,Surendranath college Barrackpore
+2093,Companies worked at,"B.com
+"
+2094,Designation,Nokia & Microsoft mobile 
+2095,Email Address,Senior Sales Executive
+2096,Location," indeed.com/r/Partho-Sarathi-
+Mitra/683dfd08d0246836"
+2097,Name,Kolkata
+2098,Skills,Partho Sarathi Mitra
+2099,College Name,"C# (Less than 1 year), Database (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1
+year), load runner (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Key Skills:
+
+• Programming Languages: C#, Java
+• Automation Testing: Selenium Webdriver, Xamarin.UITest, Protractor, Speflow
+• Performance Testing: HP Load Runner (True Client protocol)
+• Software Testing: Test Scripts, Test Case Design, Test Summary
+• Platform: Windows.
+• Database: SQL Server 2012, Oracle
+• Management tools: JIRA, HP Quality center; vsts."
+2100,Degree,SR ENGINEERING COLLEGE (SREC)
+2101,Designation,"Bachelor (B Tech) in Name of the Education Establishment
+"
+2102,Companies worked at,"Software Test Automation Engineer
+"
+2103,Designation,"Neudesic (Vendor @ Microsoft)
+"
+2104,Email Address,"Consultant
+"
+2105,Location,"indeed.com/r/Pranay-Sathu/ef2fc90d9ec5dde7
+"
+2106,Designation,Hyderabad
+2107,Name,"Software Test Automation Engineer
+"
+2108,Skills,Pranay Sathu
+2109,Location,Hvac tech (3 years)
+2110,College Name,Kolkata
+2111,Degree,Gtti -
+2112,Companies worked at,Diploma in Mrac
+2113,Designation,Infosys and microsoft
+2114,Companies worked at,HVAC Technician
+2115,Designation,Infosys and microsoft
+2116,Email Address,HVAC Technician
+2117,Location," indeed.com/r/Tanmoy-Maity/145eb1ed39df317c
+"
+2118,Name,Kolkata
+2119,Graduation Year,Tanmoy Maity
+2120,Location,"2015
+"
+2121,College Name,Jaipur
+2122,Location,Jaipur Engineering College and Research Center
+2123,Degree,Jaipur
+2124,Companies worked at,B. Tech
+2125,Location,"Nokia and Microsoft -
+"
+2126,Designation,Jaipur
+2127,Email Address,Technical Support Executive
+2128,Location," indeed.com/r/Aanirudh-Razdan/efbf36cc74cec0e5
+"
+2129,Companies worked at,Jaipur
+2130,Designation,"Teleperformance
+"
+2131,Name,Technical Support Executive
+2132,Skills,Aanirudh Razdan
+2133,Companies worked at,Microsoft office and java (Less than 1 year)
+2134,College Name,Microsoft 
+2135,Degree,chandigarh university 
+2136,Companies worked at,pass 12 in medical
+2137,Designation,Microsoft 
+2138,Email Address,"online job in home
+"
+2139,Location, indeed.com/r/Shiksha-Bhatnagar/70e68b28225ca499
+2140,Name,chnadigarh
+2141,Skills,Shiksha Bhatnagar
+2142,Designation,"PERL (10+ years), SCRIPTING (10+ years), SQL (10+ years), DATABASE (10+ years), SHELL
+SCRIPTING (10+ years)"
+2143,Email Address,DBA Client
+2144,Location," indeed.com/r/Chhaya-
+Prabhale/99700a3a95e3ccd7
+"
+2145,Name,Kharadi
+2146,Companies worked at,Chhaya Prabhale
+2147,Companies worked at,Microsoft
+2148,Skills,Microsoft
+2149,College Name,"Datawarehouse / Business Intelligence (10+ years), Agile Methodologies (6 years), Program
+Management (2 years), Agile (10+ years), Product Roadmap (2 years), Stakeholder
+Management (10+ years), Risk Management (10+ years)
+"
+2150,Degree,Narsee Monji 
+2151,Companies worked at,"PGDBM in Business Management
+"
+2152,Designation,Microsoft
+2153,Email Address,"Sr. Program Manager / Product Owner, Architect, Consultant"
+2154,Location,"indeed.com/r/Karthik-G-
+V/283106d88eb4649c
+"
+2155,Designation,"Secunderabad,"
+2156,Name,"Program Manager,"
+2157,Skills,Karthik G V
+2158,College Name,"ACTIVE DIRECTORY (2 years), EXCEL (2 years), EXCHANGE (2 years), INCIDENT MANAGEMENT
+(2 years), OPERATIONS (2 years)"
+2159,Degree,Osmania University 
+2160,College Name,"B.Sc in Electronics
+"
+2161,Degree,Osmania University 
+2162,Designation,MBA in Marketing and Human Resources
+2163,Companies worked at,Major Incident Manager / Escalation Manager 
+2164,Designation,Microsoft India
+2165,Email Address,"Major Incident Manager / Escalation Manager
+"
+2166,Location,"indeed.com/r/Mohammed-
+Murtuza/0cdc3284bf1bbeab"
+2167,Companies worked at,Hyderabad
+2168,Designation,Microsoft India
+2169,Name,Major Incident Manager / Escalation Manager 
+2170,Skills,Mohammed Murtuza
+2171,Graduation Year,"C, C++, Data Structure, Java (1 year)"
+2172,College Name,2016
+2173,Companies worked at,"Microsoft Virtual Academy
+"
+2174,Degree,Microsoft 
+2175,Companies worked at,Certificate of Achievement
+2176,Designation,Microsoft 
+2177,Email Address,"Developer Support Engineer
+"
+2178,Location,"indeed.com/r/Saurabh-
+Saurabh/87e6b26903460061
+"
+2179,Name,Bengaluru
+2180,Skills,Saurabh Saurabh
+2181,College Name,"
+Typewriting, Editing
+"
+2182,Degree,Bhagabati Nodal High School
+2183,Companies worked at,Still Studying
+2184,Designation,Microsoft & Xiaomi
+2185,Email Address,Beta Tester
+2186,Location,"indeed.com/r/Prabhu-Prasad-
+Mohapatra/1e4b62ea17458993"
+2187,Name,Bhubaneswar
+2188,Degree,Prabhu Prasad Mohapatra
+2189,Skills,"Degree,BSc(MECs) 2nd year
+"
+2190,Skills,"ms office, internet,java (Less than 1 year)"
+2191,Location,ms office
+2192,College Name,Cuddapah
+2193,Location,ards collage kadapa
+2194,Skills,Cuddapah
+2195,Location,ms office
+2196,Email Address,Cuddapah
+2197,Location,"indeed.com/r/Raja-Chandra-
+Mouli/445cbf3eb0a361cd"
+2198,Name,Cuddapah
+2199,Location,Raja Chandra Mouli
+2200,College Name,Patna
+2201,Degree,Magadh univercity 
+2202,Location,BSc in Computer
+2203,College Name,Patna
+2204,Degree,Magadh univercity 
+2205,Location,"BSc in Math
+"
+2206,Companies worked at,Patna
+2207,Designation,Microsoft
+2208,Email Address,Data Entry Operator
+2209,Location," indeed.com/r/Krishna-Prasad/56249a1d0efd3fca
+"
+2210,Name,Patna
+2211,Skills,Krishna Prasad
+2212,College Name,"problem solving (Less than 1 year), project lifecycle (Less than 1 year), project manager (Less
+than 1 year), technical assistance. (Less than 1 year)"
+2213,Companies worked at,Saurashtra University
+2214,Companies worked at,Microsoft
+2215,Companies worked at,Microsoft
+2216,Companies worked at,Microsoft
+2217,Companies worked at,Microsoft
+2218,Companies worked at,Microsoft
+2219,Companies worked at,Microsoft
+2220,Companies worked at,Microsoft
+2221,Companies worked at,Microsoft
+2222,Companies worked at,Microsoft
+2223,Companies worked at,Microsoft
+2224,Companies worked at,Microsoft
+2225,Companies worked at,Microsoft
+2226,Companies worked at,Microsoft
+2227,Designation,Microsoft
+2228,Companies worked at,"Software Engineer
+"
+2229,Email Address,Microsoft
+2230,Location,"indeed.com/r/Dushyant-
+Bhatt/140749dace5dc26f"
+2231,Name,Hyderabad
+2232,Skills,Dushyant Bhatt
+2233,Graduation Year,"Linux (Less than 1 year), Microsoft Office (Less than 1 year), MS OFFICE (Less than 1 year),
+problem solving (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Skill Set
+➢ Excellent communication and interpersonal skills.
+➢ Proficient in Computer Applications -Microsoft Office Windows (Windows 2007, XP, 8, 8.1 and
+Windows 10), Linux, Fedora.
+➢ Strong analytical and problem solving skills.
+➢ Ability in managing a team of professionals and enjoy being in a team."
+2234,College Name,2008
+2235,Degree,Frankfinn Institute of Airhostess Training -
+2236,Graduation Year,"BTEC HNC in Aviation in Hospitality and Travel Management
+"
+2237,College Name,2013
+2238,Degree,Vivekananda Engineering College for Women 
+2239,Graduation Year,"BE in Computer Science and Engineering
+"
+2240,Email Address,2013
+2241,Location," indeed.com/r/Soumya-
+Balan/97ead9542c575355"
+2242,Designation,Sulthan Bathery
+2243,Name,IT SUPPORT
+2244,Location,Soumya Balan
+2245,College Name,Noida
+2246,Degree,sunder deep group of institution 
+2247,Location,b.tech in computer science
+2248,Location,Noida
+2249,Email Address,Noida
+2250,Location," indeed.com/r/pradeep-
+chauhan/7fd59212dcc556bd"
+2251,Name,Noida
+2252,Name,pradeep chauhan
+2253,Name,pradeep chauhan
+2254,Graduation Year,Akansha Jain
+2255,Companies worked at,"2016
+"
+2256,Skills,Microsoft
+2257,Skills,"SKILLS ETL: Microsoft SSIS
+Reporting: Power BI
+Database: MS SQL SERVER 2016
+Languages: SQL, PL/SQL"
+2258,Graduation Year,"BI (1 year), BUSINESS INTELLIGENCE (1 year), DATABASE (1 year), ETL (1 year), EXTRACT,
+TRANSFORM, AND LOAD (1 year)
+"
+2259,College Name,"2016
+"
+2260,Degree,"
+GRAPHIC ERA UNIVERSITY"
+2261,Companies worked at,B.TECH in Engineering
+2262,Designation,Microsoft
+2263,Location,Developer
+2264,Companies worked at,"Pune,"
+2265,Designation,Microsoft
+2266,Email Address,Developer
+2267,Location,"indeed.com/r/Akansha-Jain/b53674429e164cfc
+"
+2268,Name,"Pune,"
+2269,Skills,Akansha Jain
+2270,College Name,"Specilization
+"
+2271,Degree,"IIT Delhi
+"
+2272,Companies worked at,"B-tech (CSE)
+"
+2273,Designation,Microsoft 
+2274,Email Address,Typing work
+2275,Location,"indeed.com/r/Rishabh-
+soni/503ce837ae2924ff
+"
+2276,Name,Anuppur
+2277,Graduation Year,Rishabh soni
+2278,Graduation Year,2014
+2279,College Name,2014
+2280,Degree,Osmania University
+2281,Companies worked at,Bachelor of Commerce in Commerce business management
+2282,Designation,"
+Microsoft "
+2283,Email Address,Delivery Specialist
+2284,Location,"indeed.com/r/Paul-
+Rajiv/2bd46ce0f01fad54
+"
+2285,Name,Secunderabad
+2286,Skills,Paul Rajiv
+2287,College Name,"C++, Html, Javascript, Software Development
+"
+2288,Degree,DAVV
+2289,Designation,BE
+2290,Companies worked at,Software developer
+2291,Designation,Microsoft
+2292,Email Address,Software developer
+2293,Location," indeed.com/r/Karan-
+Turkar/9ed71ae013a9e899"
+2294,Name,Balaghat
+2295,Skills,Karan Turkar
+2296,Skills,"Programming Languages C# .NET, CPP, C
+
+Web Development ASP.NET, HTML, CSS, JavaScript
+
+
+
+Tools used MS visual Studio v2013, MS SQL Server v2008
+
+Operating Systems Windows 10 / 8.1/ 7
+
+Databases MS-SQL"
+2297,Location,".NET (3 years), ASP (1 year), ASP.NET (1 year), C# (1 year), databases. (1 year), C++, Css,
+Javascript, Html, C
+"
+2298,College Name,Pune
+2299,Degree,"Sinhgad Institute
+"
+2300,Email Address,B.E
+2301,Companies worked at,indeed.com/r/Akshay-Dubey/87dcd40b335e6ffa
+2302,Companies worked at,MICROSOFT
+2303,Designation,MICROSOFT
+2304,Location,"Microsoft Student Partner
+"
+2305,Email Address,Pune
+2306,Location,indeed.com/r/Akshay-Dubey/87dcd40b335e6ffa
+2307,Name,Pune
+2308,College Name,Akshay Dubey
+2309,Companies worked at,"Periyar University
+"
+2310,Designation,MICROSOFT 
+2311,Email Address,"I Phone solution Consultant
+"
+2312,Location,"indeed.com/r/Sayani-
+Goswami/066e4d4956f82ee3
+"
+2313,Designation,Kolkata
+2314,Name,"I Phone solution Consultant
+"
+2315,Companies worked at,Sayani Goswami
+2316,Companies worked at,Microsoft 
+2317,Skills,Microsoft 
+2318,Graduation Year," Expertise in Microsoft Office Power Point, Microsoft Office Word.
+
+❖ Basic knowledge about C and C++ Programming.
+
+❖ Management skills.
+❖ Responsible.
+"
+2319,College Name,2013
+2320,Degree,SRM University
+2321,Graduation Year,"B.Tech in Engineering
+"
+2322,Companies worked at,2013
+2323,Designation,Microsoft 
+2324,Email Address,"Technical consultant
+"
+2325,Location,"indeed.com/r/Sweety-Garg/9f2d2afa546d730d
+"
+2326,Name,"Bengaluru,"
+2327,College Name,Sweety Garg
+2328,Degree,"affiliated -  Kota, Rajasthan"
+2329,Degree,BCA
+2330,Location,"Mongo
+"
+2331,Designation,Bengaluru
+2332,Email Address,Python Developer
+2333,Location,"indeed.com/r/Ramkrishan-Bhatt/
+da07dc6d058dfc64"
+2334,Designation,Bengaluru
+2335,Name,python developer
+2336,Companies worked at,Ramkrishan Bhatt
+2337,Skills,Microsoft
+2338,Location,"• Ms Excel
+• Microsoft word 2010"
+2339,Skills,Gokul
+2340,College Name,"EXCEL (Less than 1 year), MICROSOFT WORD (Less than 1 year), MICROSOFT WORD 2010 (Less
+than 1 year), MS EXCEL (Less than 1 year), WORD (Less than 1 year)"
+2341,Degree,Periyar University 
+2342,Companies worked at,"B.SC
+"
+2343,Designation,Microsoft
+2344,Location,Software
+2345,Email Address,Gokul
+2346,Location," indeed.com/r/B-Gokul/ca7750b94830268d
+"
+2347,Location,Gokul
+2348,Name,Gokul
+2349,Skills,B. Gokul
+2350,College Name,"Good listener,take up responsibilities,good at communication,great at taking
+challenges,excellent in various sports like soccer,cricket,kabbadi,cycling,running,swimming,
+fluent in English,kannada, known languages hindi,tail,telugu"
+2351,Companies worked at,Vijaya main
+2352,Designation,Microsoft
+2353,Email Address,Space auditing
+2354,Location,"indeed.com/r/Anand-S/ce230cad6115ae68
+"
+2355,Name,Bangalore
+2356,Email Address,Anand S
+2357,Location,indeed.com/r/Krishna-Prasad/b8d7a1135a44a37a
+2358,College Name,Patna
+2359,Degree,Magadh university
+2360,Companies worked at,BSc in Computer Science
+2361,Designation,Microsoft
+2362,Location,Data Entry Operator
+2363,Email Address,Patna
+2364,Location,indeed.com/r/Krishna-Prasad/b8d7a1135a44a37a
+2365,Name,Patna
+2366,Skills,Krishna Prasad
+2367,Companies worked at,"SKILLS SQL
+MS Excel
+HTML
+Javascript"
+2368,Companies worked at,Microsoft
+2369,Companies worked at,Microsoft
+2370,Skills,Microsoft
+2371,Graduation Year,"EXCEL (Less than 1 year), HTML (Less than 1 year), JAVASCRIPT (Less than 1 year), MS EXCEL
+(Less than 1 year), SQL (Less than 1 year)"
+2372,College Name, 2016
+2373,Degree,"Gandhi Institute of Science And Technology (GITAM) University
+"
+2374,Designation,"
+B.Tech in CSE
+"
+2375,Companies worked at,Microsoft Student partner
+2376,Companies worked at,Microsoft
+2377,Designation,Microsoft
+2378,Companies worked at,Microsoft Student partner
+2379,Email Address,Microsoft
+2380,Location,"indeed.com/r/Saurabh-Sandhikar/
+e490c0d49e5aa698"
+2381,Name,Hyderabad
+2382,Companies worked at,Saurabh Sandhikar
+2383,Skills,Microsoft
+2384,Companies worked at,"Microsoft Technologies C#.Net, WPF, WCF, ASP.Net MVC, Web API, Biztalk Server 2013
+Cloud Azure
+Version Control Git, VSTS, SVN, IBM Rational Clear Case
+Scripting PowerShell
+Unit Test MOQ, VS Test, Microsoft Fakes, N-Unit"
+2385,Skills,Microsoft
+2386,Degree,"WPF (Less than 1 year), Web API, Azure, ASP.Net MVC, Design Patterns, WCF, C#"
+2387,Companies worked at,MCA
+2388,Designation,Microsoft
+2389,Companies worked at,Software Developer
+2390,Location,Microsoft
+2391,Companies worked at,Hyderabad
+2392,Location,Microsoft
+2393,Companies worked at,Hyderabad
+2394,Designation,Cognizant
+2395,Location,Architect
+2396,Email Address,Hyderabad
+2397,Location,"indeed.com/r/Priyesh-Dubey/cd079a9e5de18281
+"
+2398,Years of Experience,Hyderabad
+2399,Designation,9 Yrs 8 month
+2400,Name,Azure Developer
+2401,Skills,Priyesh Dubey
+2402,College Name,"HR (9 years), COMPENSATION (1 year), RECRUITMENT (1 year), DETAIL ORIENTED (Less than 1
+year), DOCUMENTATION (Less than 1 year)
+
+
+
+ADDITIONAL INFORMATION
+
+CORE COMPETENCIES
+• Performance Management
+• Recruitment & Retention
+• Training & Development
+• HR Policies & Procedures
+• Employee Exit
+• Confidential Record Keeping
+• HR Department Start-up
+• Event Management
+• On-boarding, Orientation & Induction
+• Employee Counselling
+• Attendance & Leave Management
+• Team Building and Morale building
+• Process Documentation
+• Payroll & Compensation
+
+TECHNICAL EXPERTISE
+• Well versed with Microsoft Office (Word, Excel & Power Point)
+• Microsoft Project
+• Lotus, outlook and internet job portal applications.
+
+PERSONAGE ELEMENTS
+• Analytical & Critical thinking
+• Compliant & Adaptive
+• Detail Oriented
+• Flexible
+• Honest & Hardworking
+• Leadership
+• Logical
+• Versatile
+• Work Ethic"
+2403,Degree,Kerala University
+2404,Location,B.B.A in UIT
+2405,Companies worked at,Chennai
+2406,Email Address,Velammal New
+2407,Location, indeed.com/r/Laya-A/74af8dc044f3fa7f
+2408,Companies worked at,Chennai
+2409,Designation,Velammal New
+2410,Name,Cluster HR Manager 
+2411,College Name,Laya A
+2412,Degree,V V Pura College of Science
+2413,Degree,BSc
+2414,Email Address,BSc
+2415,Email Address,indeed.com/r/Vishwanath-P/06a16ac2d087d3c9
+2416,Location,indeed.com/r/Vishwanath-P/06a16ac2d087d3c9
+2417,Companies worked at,"Bengaluru,"
+2418,Designation,"LabourNet Services India
+Pvt Ltd"
+2419,Name,Senior Executive (MIS & Audit) 
+2420,Skills,Vishwanath P
+2421,Skills,"Technical skillset:
+• Manual Testing Techniques
+• Web Application testing
+• STLC (Software Testing Life Cycle) process
+• Verification and Validation process
+• Programming Language: Software Testing, ASP.Net with C#
+
+• Frameworks: Microsoft Visual Studio 2010, Frameworks 3.5, Frameworks (C#) 4.0, 4.5
+• Database tools: MySQL, SQL Server 2008, SQL Server 2010, MS-Access 2008
+• Report generation Tool: Crystal Report"
+2422,Graduation Year,"ASP (1 year), ASP.NET (1 year), MS ASP (1 year), SOFTWARE TESTING (Less than 1 year),
+TESTING (Less than 1 year)
+"
+2423,College Name," 2013
+"
+2424,Degree,"Gujarat University
+"
+2425,College Name,B.C.A
+2426,Degree,KSV University
+2427,Designation,MSC
+2428,College Name,Jr. ASP.NET Developer
+2429,Designation,True Vision Technology
+2430,College Name,Jr. ASP.NET Developer
+2431,Designation,True Vision Technology
+2432,Name,Jr. ASP.NET Developer
+2433,Skills,Hemil Bhavsar
+2434,Graduation Year,"REMEDY (3 years), CLARIFY (Less than 1 year), EXCEL (Less than 1 year), MS OFFICE (Less than
+1 year), OUTLOOK (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Skill Set:
+
+• Systems: Windows […] 10)
+• Software: MS Office (Word, Excel, Outlook, PowerPoint), Clarify, SRMS Remedy V6 (Advanced),
+Remedy V7.4 (Proficient), Remedy 7.5, MORI, GCD, LOCM, GTOMS, Webex, Smartsheet."
+2435,College Name,2010
+2436,Degree,Administrative Management College Bangalore University
+2437,Graduation Year,achelor of Computer Application in Computer Application
+2438,Companies worked at,2010
+2439,Email Address,"Partner Sites Infosys, Concentrix, Merchants and Convergys
+
+Collabera Technologies- Client- Cisco Systems, Inc "
+2440,Location,"indeed.com/r/Siddhartha-Chetri/
+f6959d21c6b91bba"
+2441,Years of Experience,Bengaluru
+2442,Name,7 years
+2443,Skills,Siddhartha Chetri
+2444,Graduation Year,Linux
+2445,College Name,2016
+2446,Degree,Maharashtra Institute of Technology
+2447,Graduation Year,Btech
+2448,Graduation Year,2016
+2449,Graduation Year,2016
+2450,Companies worked at,2016
+2451,Designation,Allscripts
+2452,Location,Intern
+2453,Email Address,Pune
+2454,Location,"indeed.com/r/Pratik-Vaidya/e88324548608d0bc
+"
+2455,Name,Pune
+2456,Companies worked at,Pratik Vaidya
+2457,Companies worked at,Tech Mahindra Ltd
+2458,Companies worked at,Tech Mahindra Ltd
+2459,Companies worked at,Tech Mahindra Ltd
+2460,Skills,Tech Mahindra Ltd
+2461,Graduation Year,".Net (Less than 1 year), .Net 4.5 (Less than 1 year), Amazon Elastic Block Storage (Less than 1
+year), Amazon Elastic Compute Cloud (Less than 1 year), ASP (Less than 1 year)
+"
+2462,College Name,1997
+2463,Degree,Andhra University
+2464,Graduation Year,"B.Sc. in M.P.C
+"
+2465,College Name,"1998
+"
+2466,Degree,Nagarjuna University
+2467,Graduation Year,"P.G.D.C.A in Computer Applications
+"
+2468,College Name,2001
+2469,Degree,Periyar University
+2470,Companies worked at,Master of Science in Information Technology and Management
+2471,Designation,Tech Mahindra Ltd
+2472,Companies worked at,DevOps Consultant 
+2473,Designation,Tech Mahindra Ltd
+2474,Email Address,DevOps Consultant 
+2475,Location,"indeed.com/r/Ramakrishna-
+Rao/0b57f5f9d35b9e5c"
+2476,Companies worked at,Bengaluru
+2477,Designation,Tech Mahindra Ltd
+2478,Name,DevOps Consultant 
+2479,Email Address,Ramakrishna Rao
+2480,College Name,indeed.com/r/Keshav-Dhawale/f5ce584c13e7368d
+2481,Degree,Board (university)
+2482,Designation,SSC
+2483,Email Address, TCS Security guard
+2484,Location,indeed.com/r/Keshav-Dhawale/f5ce584c13e7368d
+2485,Companies worked at,Pune
+2486,Years of Experience," TCS Hinjewadi Mail
+Room Boy & HK Store"
+2487,Designation, 1 year 
+2488,Name, TCS Security guard
+2489,Skills,Keshav Dhawale
+2490,Designation,"MENTORING (5 years), TRAINING (5 years), PROGRAM MANAGER (2 years), PROJECT
+MANAGEMENT (2 years), CHANGE MANAGEMENT (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Skills Project Management, People Management, Stake Holder
+Management, Vendor Management, Project Planning Scheduling and
+Implementation, Risk Analysis, Cross-functional supervision, Team
+building and mentoring, Change Management, Escalation Handling,
+Change Management, Quality Assurance, Training & Presentations.
+Resume - Program Manager"
+2491,College Name,"2001
+"
+2492,College Name,Kerala State
+2493,Degree,Kerala State
+2494,Location,Higher Secondary Certificate
+2495,Companies worked at,Vadodara
+2496,Designation,Office Beacon
+2497,Email Address,Program Manager (Software Delivery)
+2498,Location,"indeed.com/r/Praveen-Bhaskar/c9868b2e3dd70df1
+"
+2499,Companies worked at,Vadodara
+2500,Designation,Office Beacon
+2501,Name,Program Manager (Software Delivery)
+2502,Email Address,Praveen Bhaskar
+2503,Graduation Year,indeed.com/r/Gunjan-Nayyar/a5819ca6733a0f41
+2504,College Name,2018
+2505,Degree,"Chitkara University
+"
+2506,Designation,"B. E. in CSE
+"
+2507,Designation,Member of Discipline Committee in ALGORYTHM
+2508,Companies worked at,Member of Discipline Committee in ALGORYTHM
+2509,Companies worked at,INFOSYS
+2510,Years of Experience,INFOSYS
+2511,Email Address,6 months
+2512,Location,indeed.com/r/Gunjan-Nayyar/a5819ca6733a0f41
+2513,Name,Hoshiarpur
+2514,Skills,Gunjan Nayyar
+2515,Graduation Year,"
+Soft Skills:
+• Cross Cultural Sensitivity
+• Written Communication Skills
+• Articulation Skills
+• Effective Meetings"
+2516,College Name,2011
+2517,Degree,Sri Venkateswara College of Engineering and Technology Affiliated -
+2518,Graduation Year,B.Tech in Electronics and Communication Engineering
+2519,Location,2011
+2520,Email Address,Hyderabad
+2521,Email Address,indeed.com/r/Rupesh-Reddy/5402dfa9c92fb7bf
+2522,Location,indeed.com/r/Rupesh-Reddy/5402dfa9c92fb7bf
+2523,Companies worked at,Hyderabad
+2524,Designation, EIT Services India Private Limited
+2525,Name,Technology Consultant
+2526,College Name,Rupesh Reddy
+2527,Degree,PES College of Engineering -
+2528,Designation,B.E
+2529,Location,Escalation Specialist
+2530,Companies worked at,Bengaluru
+2531,Designation, HiPower Support Centre
+2532,Name,Escalation Specialist
+2533,Skills,Puneeth R
+2534,Degree,"AMADEUS (3 years), CLIENT MANAGEMENT (3 years), EXCEL (3 years), MS WORD (3 years),
+WORD (3 years)"
+2535,Location,B.B.A in Airport & Customer Care Management
+2536,Location,Visakhapatnam
+2537,Companies worked at,Visakhapatnam
+2538,Companies worked at,International Travel House Limited
+2539,Designation,International Travel House Limited
+2540,Email Address,Senior Travel Operations
+2541,Location,"indeed.com/r/Kandrapu-
+Reddy/69a289269ce9e1d1
+"
+2542,Companies worked at,Visakhapatnam
+2543,Designation,International Travel House Limited
+2544,Name,Senior Travel Operations
+2545,Skills,Kandrapu Reddy
+2546,College Name,"Storekeeping / Inventory Management / Purchase (2 years), People & Time Management (2
+years)
+
+ADDITIONAL INFORMATION
+
+Competencies
+
+❖ Effective communications skills, excellent interpersonal skills, good time management skills,
+results-oriented individual and a very good team player.
+❖ Sincere, hardworking and willing to take up challenging assignments.
+"
+2547,Degree,"S.N.G College, Bharathiar University
+"
+2548,Location,"B.Sc. in Microbiology in Microbiology
+"
+2549,Location,Nagpur
+2550,College Name,Nagpur
+2551,Designation,Orange City Hospital & Research Institute
+2552,Designation,Store Executive
+2553,Email Address,Store Executive
+2554,Location,"indeed.com/r/Vineeth-Vijayan/
+ee84e7ea0695181f
+"
+2555,College Name,Nagpur
+2556,Designation,Orange City Hospital & Research Institute
+2557,Name,Store Executive
+2558,Skills,Vineeth Vijayan
+2559,College Name,"
+MENTORING (10+ years), SCHEDULING (9 years), ORACLE (9 years), SOLUTIONS (9 years),
+BENEFITS (4 years)
+"
+2560,Degree,Technical Board of Education Bombay 
+2561,College Name,"Diploma in INDUSTRIAL ELECTRONICS
+"
+2562,Degree,"Amravati University -  Amravati, Maharashtra
+"
+2563,Location,Bachelor of Engineering in ELECTRONICS AND TELECOMMUNICATION
+2564,Location,Pune
+2565,Location,Pune
+2566,Companies worked at,Pune
+2567,Designation, Infosys Ltd
+2568,Designation,"Global Production Support Lead,"
+2569,Years of Experience,Global Production Support Lead
+2570,Email Address, 12+ years
+2571,Location,"indeed.com/r/Rahul-Tayade/ce40c3731cb69763
+"
+2572,Companies worked at,Pune
+2573,Designation, Infosys Ltd
+2574,Name,Global Production Support Lead
+2575,Companies worked at,Rahul Tayade
+2576,Email Address,B.B.M
+2577,Companies worked at,Infosys
+2578,Designation,indeed.com/r/Debasish-Dasgupta/a20561e10f83ae3f
+2579,Companies worked at,Infosys
+2580,Email Address,Trainer-Finacle-Core Banking Solutions
+2581,Location,Infosys
+2582,Companies worked at,indeed.com/r/Debasish-Dasgupta/a20561e10f83ae3f
+2583,Designation,Qasba
+2584,Name,Infosys
+2585,Skills,Trainer-Finacle-Core Banking Solutions
+2586,Skills,Debasish Dasgupta
+2587,Graduation Year,"Operating Systems Windows and Unix
+Configuration management tools TFS and VSTS
+Programming Languages VB, ASP, VB.net, C#, JavaScript, Jquery and Angular JS (Starter), CRM
+Frontend HTML and .Net
+Middleware MVC and WCF
+Database SQL Server and Oracle
+Content Migration tools Metalogix and Sharegate
+Automation PowerShell and VSTS
+
+DOMAIN EXPERIENCE
+Insurance 10 Years
+Engineering 3 Years
+Banking 2.5 Years
+"
+2588,College Name,"NET (Less than 1 year), ASP (Less than 1 year), DATABASE (Less than 1 year), MS SQL SERVER
+(Less than 1 year), SQL (Less than 1 year)
+"
+2589,Degree,1999
+2590,Graduation Year,"Nagarjuna university
+"
+2591,College Name,"B.Sc in Maths, Physics and Computers"
+2592,Degree,"2002
+"
+2593,Location,affiliated college of Andhra University
+2594,Companies worked at,M.C.A
+2595,Companies worked at,Hyderabad
+2596,Designation,IBM 
+2597,Designation,CSC 
+2598,Email Address,"Senior Professional Technology Analyst
+"
+2599,Location,Technical Architect
+2600,Name,"indeed.com/r/Suresh-
+Kanagala/04b36892f9d2e2eb"
+2601,Skills,Hyderabad
+2602,Designation,Suresh Kanagala
+2603,Designation,"Technical Skills
+
+
+
+OS Windows XP, Vista
+Others Microsoft word/excel/power point, Basic computer skills, Tally
+"
+2604,Companies worked at,Oceanic Consultants
+2605,Designation,Oceanic Consultants
+2606,Companies worked at, HR Executive
+2607,Companies worked at,Oceanic Consultants
+2608,Name, HR Executive
+2609,Skills,Oceanic Consultants
+2610,College Name,Jaspreet Kaur
+2611,Degree,"Oracle Pl/Sql (6 years), Facets (3 years), Hadoop (1 year), healthcare (4 years), Informatica (6
+years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+Operating System Unix and Windows
+Programming languages Unix Scripting, SQL and PL/SQL, Core Java, Basics of Python
+Databases and Tools Informatica Power Center, Oracle, Hadoop and Spark
+Other Utilities SVN, Jira
+Scheduling Tools Tidal and Control-M
+Cloud Technology Microsoft Azure
+Domain Knowledge Retail, Healthcare, Banking
+"
+2612,Location,BPUT 
+2613,Designation,"B.Tech in Electronics and telecommunication
+"
+2614,Years of Experience,Bengaluru
+2615,Email Address,Associate
+2616,Location,6 years and 6 months 
+2617,Companies worked at,"indeed.com/r/Somanath-Behera/
+e9188fe8ba12dbbd"
+2618,Designation,Bengaluru
+2619,Name,Cognizant technology Solutions
+2620,Skills,Associate
+2621,College Name,Somanath Behera
+2622,College Name,"Java, SQL, J2EE, Sping, Hibernate, JavaScript, HTML, CSS
+
+ADDITIONAL INFORMATION
+
+Serving notice period"
+2623,Degree,Chhattisgarh Board of Secondary Education
+2624,College Name,C V Raman University Bilaspur
+2625,Degree,Bachelor of Computer Applications in Computer Applications
+2626,College Name,Bhilai Institute of Technology
+2627,Degree,"Master of Computer Applications in Computer Applications
+"
+2628,Companies worked at,Chhattisgarh Board of Secondary Education
+2629,Designation,Secondary School Certificate in Design Pattern
+2630,College Name, Infosys Limited
+2631,Email Address,Sr. Systems Engineer
+2632,Location,Bhilai Institute of Technology
+2633,Companies worked at,"indeed.com/r/Ashish-
+Indoriya/84f99c99ebe940be"
+2634,Designation,Hyderabad
+2635,Name, Infosys Limited
+2636,Email Address,Sr. Systems Engineer
+2637,Skills,Ashish Indoriya
+2638,College Name,indeed.com/r/Dilliraja-Baskaran/4a3bc8a35879ce5c
+2639,Degree,"Mainframe,COBOL,JCL,DB2,IMSDB,IMSDC"
+2640,Companies worked at,Panimalar Engineering College
+2641,Email Address,B.E
+2642,Location, Infosys
+2643,Name,indeed.com/r/Dilliraja-Baskaran/4a3bc8a35879ce5c
+2644,Graduation Year,Tamil Nadu
+2645,College Name,Dilliraja Baskara
+2646,Degree,2013
+2647,Graduation Year,Bharathiyar University 
+2648,Location,B.Sc. in Computer Science
+2649,Companies worked at,2013
+2650,Location, Chennai
+2651,Designation, Infosys Ltd
+2652,Email Address, Chennai
+2653,Companies worked at,Test Engineer
+2654,Designation,"indeed.com/r/Deepika-S/1b4436206cf5871b
+"
+2655,Name, Infosys Ltd
+2656,Skills,Test Engineer
+2657,Degree,Deepika S
+2658,Companies worked at,"Excel (Less than 1 year), Word (Less than 1 year)
+"
+2659,Email Address,Bachelor's
+2660,Designation,Sun infosys
+2661,Email Address,indeed.com/r/Jacob-Philip/db00d831146c9228
+2662,Location,"Sales and marketing specialist
+"
+2663,Name,indeed.com/r/Jacob-Philip/db00d831146c9228
+2664,Skills,Kottayam
+2665,UNKNOWN,Jacob Philip
+2666,College Name,"40 WPM (Less than 1 year), AUTOCAD (Less than 1 year), EXCEL (Less than 1 year), MS EXCEL
+(Less than 1 year), MS OFFICE (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SOFTWARE SKILLS
+• Completed successfully MS-CIT MS Office - Basic Computer Course (MS Word, MS Excel, MS
+Power Point & Internet) AutoCAD in Electrical
+
+
+
+• Good English, Marathi, & Hindi Typing Skills (30-40 Wpm)"
+2667,Degree,"2012
+"
+2668,Designation,"Nagpur Polytechnic -  Nagpur, Maharashtra
+"
+2669,Designation,"Diploma in Electrical Engineering
+"
+2670,Companies worked at,"Engineer / Electrical Supervisor,"
+2671,Designation,"Engineer / Electrical Supervisor,"
+2672,Name," Site at Shendra MIDC Aurangabad -
+Perkins India Ltd
+"
+2673,Skills,"Engineer / Electrical Supervisor,"
+2674,College Name,Yogesh Ghatole
+2675,Degree,"C++ (6 years), LINUX (6 years), .NET (2 years), VISUAL STUDIO (2 years), JAVA (1 year)
+
+LINKS
+
+http://www.linkedin.com/in/ajayelango
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Programming Languages: C++(98/11), Java, Python, C, JavaScript, MATLAB, SQL, C#, PHP
+Software Tools: Microsoft Visual Studio, Eclipse, gdb, ddd, TotalView Debugger,
+Hoops 3DGS, OpenGL, IBM ClearCase, GitHub, vi editor, JIRA, Trello
+Board, Valgrind, Perforce, LabVIEW, Visio, Enterprise Architect, gedit
+Operating Systems: Linux, Windows
+Databases: Oracle […] Microsoft SQL Server, IBM DB2"
+2676,College Name,Amrita School of Engineering -
+2677,Degree,Bachelor of Technology in Electronics & Communication Engineering
+2678,College Name,Georgia Institute of Technology
+2679,Skills,Master of Science in Electrical & Computer Engineering
+2680,College Name,Georgia Institute of Technology
+2681,Degree,"HTML (Less than 1 year), MS OFFICE (Less than 1 year), Tally (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+COMPUTER SKILLS
+Packages: MS Office, HTML, TALLY
+"
+2682,Designation,S.V University
+2683,Location,"B.Com in C.A
+"
+2684,Email Address,Senior Process Executive 
+2685,Location,Bengaluru
+2686,Companies worked at,"indeed.com/r/Shaik-Tazuddin/1366179051f145eb
+"
+2687,Designation,Bengaluru
+2688,Name,"STAR India
+"
+2689,Degree,Senior Process Executive 
+2690,Skills,Shaik Tazuddin
+2691,Email Address,Microsoft Certified Windows server 2008 in active directory
+2692,Location,"active directory (Less than 1 year), DHCP (Less than 1 year), DNS. (Less than 1 year), Hardware
+troubleshooting. (Less than 1 year), Windows Server 2008 (1 year)
+
+ADDITIONAL INFORMATION
+
+♦ operating Systems
+MICROSOFT: Windows server 2008
+• Build Windows Active Directory. DNS.
+• DHCP Management.
+• Diagnosed and corrected medium problems in current network
+• User Management and Management of Permissions according to requirement
+• File System Management.
+• Advanced Hardware/Software Installation, configuration and Management.
+• Hardware troubleshooting
+MICROSOFT: Windows XP, Window7, Window8 and Window10
+• Advanced Hardware/Software Installation, configuration and Management.
+• File System Management.
+• Hardware troubleshooting.."
+2693,Location,indeed.com/r/Angad-Waghmare/42aa9e8655a5f7a3
+2694,Location,Pune
+2695,Email Address,Pune
+2696,Location,Pune
+2697,Name,indeed.com/r/Angad-Waghmare/42aa9e8655a5f7a3
+2698,Skills,Pune
+2699,College Name,Angad Waghmare
+2700,Email Address,Parsuing cs profesional.
+2701,Location,Jiwaji University
+2702,Name," indeed.com/r/Sohan-
+Dhakad/038dfd47a0cf071f"
+2703,Skills,Shivpuri
+2704,Graduation Year,Sohan Dhakad
+2705,College Name,"excel, powerpoint, vlookup, formula, filters, paint, recruitment, (1 year)
+"
+2706,Degree," 2013
+"
+2707,Graduation Year,"New Horizon College, (Bangalore University)"
+2708,College Name,BBM in education
+2709,Degree,2016
+2710,Graduation Year,Visvesvaraya Technological University
+2711,Designation,MBA
+2712,Degree,2016
+2713,Graduation Year,HR Executive
+2714,Graduation Year,MBA
+2715,Graduation Year,2016
+2716,Designation,2016
+2717,Companies worked at,2016
+2718,Designation,HR Executive
+2719,Email Address,Founding Years Learning Solutions
+2720,Location,HR Trainee Associate
+2721,Designation," indeed.com/r/Madhava-
+Konjeti/964a277f6ace570c"
+2722,Name,Bengaluru
+2723,Skills,HR Executive
+2724,Skills,Madhava Konjeti
+2725,College Name,"Programming Languages Python, Java.
+
+Scripting Language jQuery, JavaScript, Ajax.
+
+Operating Systems: Linux
+
+Databases: SQL, kafka.
+
+Tools and Utilities: Elasticsearch, Prometheus, Grafana, kibana, Docker"
+2726,Degree,"Ajax (Less than 1 year), APACHE KAFKA (Less than 1 year), HTML5 (2 years), Java (2 years),
+SQL (2 years)
+
+ADDITIONAL INFORMATION
+
+Technical Profile:
+
+Web Technologies Python, JAVA, HTML5.
+"
+2727,Companies worked at,"Galgotias University
+"
+2728,Designation,B.Tech in ECE
+2729,Companies worked at, Infosys
+2730,Designation,Senior System Engineer at Infosys Limited
+2731,Email Address, Infosys
+2732,Location,Senior System Engineer at Infosys Limited
+2733,Companies worked at,"indeed.com/r/Shreya-Agnihotri/
+c1755567027a0205
+"
+2734,Companies worked at,Bengaluru
+2735,Designation, Infosys
+2736,Name, Infosys
+2737,Location,Senior System Engineer at Infosys Limited
+2738,Companies worked at,Shreya Agnihotri
+2739,Designation,"Bhubaneshwar,"
+2740,Years of Experience,Infosys
+2741,Email Address,G4S Security 
+2742,Location,10years
+2743,Name,"indeed.com/r/Tapan-kumar-Nayak/
+da1f5ffb3c4c4b17
+"
+2744,Skills,"Bhubaneshwar,"
+2745,College Name,Tapan kumar Nayak
+2746,Degree,"Manual Testing, Protractor, Selenium Webdriver, Automation Testing, API Testing"
+2747,Companies worked at,Jaypee Institute Of Information Technology 
+2748,Designation,B.Tech
+2749,Companies worked at,ThoughtWorks Technologies
+2750,Email Address,Quality Analyst
+2751,Companies worked at,ThoughtWorks Technologies
+2752,Designation,indeed.com/r/Arpit-Jain/3714fe32f98b03a9
+2753,Skills,ThoughtWorks Technologies
+2754,Designation,Quality Analyst
+2755,Email Address,"Manual Testing
+
+JavaScript
+
+Selenium WebDriver
+
+JASMINE
+
+GitHub
+"
+2756,Location,Quality Analyst
+2757,Companies worked at,indeed.com/r/Arpit-Jain/3714fe32f98b03a9
+2758,Designation,Pune 
+2759,Name,ThoughtWorks Technologies
+2760,Graduation Year,Quality Analyst
+2761,Graduation Year,Arpit Jain
+2762,College Name,2006
+2763,Degree,2006
+2764,Graduation Year,MS University 
+2765,College Name,"B.SC.
+"
+2766,Degree,2009
+2767,Companies worked at,Anna University 
+2768,Designation,MCA in Engineering
+2769,Companies worked at, Infosys
+2770,Designation,Senior Technology Support Executive
+2771,Email Address, Infosys
+2772,Location,Senior Technology Support Executive
+2773,Companies worked at,"indeed.com/r/Palani-S/d3b2e79f56262868
+"
+2774,Designation,Porur
+2775,Name, Infosys
+2776,Location,Senior Technology Support Executive
+2777,Companies worked at,Palani S
+2778,Designation,Bangalore
+2779,Graduation Year,Infosys Bangalore
+2780,Skills,Systems Engineer
+2781,Graduation Year,2013
+2782,College Name,"ASP (1 year), ASP.NET (1 year), MS ASP (1 year), .NET (1 year), ENGINEER (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Languages C#, MVC 4.0, ASP.NET, JavaScript, JQuery, AJAX, Windows Services, SQL
+Server 2012
+IDE MS Visual Studio 2015, SQL server 2012
+Web Authoring Tools HTML 5, CSS 3.0, XML
+Microsoft Office MS PowerPoint, MS Word, MS Visio, MS Excel
+Operating Systems Microsoft Windows
+Source Code TFS 2013, VSS 2012
+Management
+"
+2783,Degree,2013
+2784,Graduation Year,Anna University
+2785,College Name,"B Tech in Sri Ramakrishna
+"
+2786,Degree,2017
+2787,Graduation Year,Birla Institute 
+2788,Designation,"M Tech in Technology & Science
+"
+2789,Designation,2013
+2790,Designation,Systems Engineer
+2791,Location,Systems Engineer
+2792,Graduation Year,Systems Engineer
+2793,Graduation Year,Bangalore
+2794,College Name,2013
+2795,Email Address,2017
+2796,Location,Birla Institute 
+2797,Location," indeed.com/r/Meenalochani-
+Kondya/81e406bd03e7a6d2"
+2798,Companies worked at,Bangalore
+2799,Designation,Bangalore
+2800,Name,Infosys Bangalore
+2801,Graduation Year,Systems Engineer
+2802,College Name,Meenalochani Kondya
+2803,Degree,2015
+2804,Skills,Tejaa Shakthi Institute of Technology for Womens
+2805,Companies worked at,B.E in CSE
+2806,Designation,"Languages C, C++, Java
+Database MySQL
+Platforms Linux, Windows
+Tools JIRA, Application Manager, AppDynamics, AWS, Ecllipse
+Web Technologies HTML, PHP, jQuery, AJAX"
+2807,Location, Skava an Infosys Company
+2808,Email Address,NOC and QA Engineer
+2809,Location,Coimbatore
+2810,Companies worked at,"indeed.com/r/Shrinidhi-Selva-
+Kumar/50d8e59fabb41a63"
+2811,Designation,Coimbatore
+2812,Name, Skava an Infosys Company
+2813,Skills,NOC and QA Engineer
+2814,Graduation Year,Shrinidhi Selva Kumar
+2815,College Name,"CRM (3 years), DATABASE (3 years), ORACLE (3 years), Tosca (3 years), Automation Testing (3
+years), Selenium (1 year), Core Java (1 year)
+
+ADDITIONAL INFORMATION
+
+Key Skills:
+❖ Software tools: IBM Rational Collaborative Lifecycle Management
+❖ Testing Tool: IBM Rational Quality Management on Jazz Server
+❖ Test Automation Tools: TOSCA, Selenium
+❖ Programming Language: Core Java
+❖ IDE: Eclipse
+❖ Database: Oracle, EDB, Sqlserver
+❖ Database Tools: SQL Developer, Toad, Tora
+❖ Software tools: Filezilla, MobaXterm, Putty, Office tools
+❖ Platforms: Windows, UNIX
+❖ Domain Software Knowledge: Finacle Core Banking Solution, Finacle CRM Solution.
+
+Skills: Fast learner, leadership quality, team player, presentation skills, work devotee, punctual,
+good communication and listening skills."
+2816,College Name,2005
+2817,College Name,Lucknow Public Inter College
+2818,Email Address,2011
+2819,Degree,Saroj Institute of Technology & Management 
+2820,Graduation Year,indeed.com/r/Mayank-Shukla/3c6042bd141ad353
+2821,Location,B.Tech. in Information Technology
+2822,College Name,2014
+2823,Degree,Bengaluru
+2824,Companies worked at,Manipal University
+2825,Location,"MBA in Banking and Finance
+"
+2826,Email Address,Infosys Ltd/Edgeverve Systems Ltd
+2827,Location,Bengaluru
+2828,Companies worked at,indeed.com/r/Mayank-Shukla/3c6042bd141ad353
+2829,Designation,Bengaluru
+2830,Name,Infosys Ltd/Edgeverve Systems Ltd
+2831,Skills, Test Analyst 
+2832,College Name,Mayank Shukla
+2833,Skills,"10 Skill Sets
+• Quick learner and team player"
+2834,Companies worked at,"NMAM Institute of Technology
+"
+2835,Designation,"9 Computer Languages Known:
+• C programming basics
+• Core java
+• SQL/PLSQL"
+2836,Years of Experience,Infosys
+2837,Email Address, trining
+2838,Location, 3 months
+2839,Name,"indeed.com/r/Shraddha-Achar/
+d6d4e3c0237ccc6c"
+2840,Skills,Mathura
+2841,College Name,Shraddha Achar
+2842,Email Address,"TRAINING (2 years), CASH (Less than 1 year), EXCEL (Less than 1 year), SAP (Less than 1 year),
+WINDOWS 7 (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+-
+
+Good communication skills
+Excellent logical reasoning
+Innovative and creative
+Quick learner
+Good knowledge of tools like (SAP, ADMARC, PPI)
+Positive attitude to words the problems and solving ability"
+2843,Designation,University of Rajasthan
+2844,Email Address,indeed.com/r/Arpit-Godha/4c363189fbff3de8
+2845,Location,"Senior Process Executive
+"
+2846,Designation,indeed.com/r/Arpit-Godha/4c363189fbff3de8
+2847,Name,Jaipur
+2848,College Name,"Senior Process Executive
+"
+2849,Degree,Arpit Godha
+2850,Designation,Kurukshetra University
+2851,Companies worked at,"B.Sc in Computer Science
+"
+2852,Email Address,SDET Automation Engineer
+2853,Location, Infosys 
+2854,Companies worked at, indeed.com/r/Jatin-Arora/a124b9609f62fbcb
+2855,Designation,Pehowa
+2856,Name, Infosys 
+2857,Degree,SDET Automation Engineer
+2858,Degree,Jatin Arora
+2859,Degree,PSG College of Technology
+2860,Degree,"Bachelor of Science in Comp. Technology
+"
+2861,Email Address,PSG College of Technology
+2862,Companies worked at,Masters of Science in Comp. Technology
+2863,Designation,indeed.com/r/Karthik-Gururaj/a51f07b3eda3aa6c
+2864,Companies worked at,Infosys Ltd
+2865,Designation,Technical Lead
+2866,Email Address,Infosys Ltd
+2867,Companies worked at,Technical Lead
+2868,Designation,indeed.com/r/Karthik-Gururaj/a51f07b3eda3aa6c
+2869,Name,Infosys Ltd
+2870,Skills,Technical Lead
+2871,College Name,Karthik Gururaj
+2872,Degree,"● Corporate Communications
+● Creative Team Leadership
+● Adept problem solver
+
+• Development of Training Materials
+● Strong Analytical and logical skills"
+2873,Companies worked at,"PSG COLLEGE OF TECHNOLOGY, ANNA UNIVERSITY "
+2874,Designation,Bachelor of Technology in Information Technology
+2875,Location,Infosys Limited
+2876,Companies worked at,System Engineer
+2877,Designation,Bangalore
+2878,Email Address,Infosys Limited
+2879,Location,System Engineer
+2880,Companies worked at,"indeed.com/r/Akila-Mohideen/cfe2854527fb6a12
+"
+2881,Designation,Bangalore
+2882,Name,Infosys Limited
+2883,Skills,System Engineer
+2884,Degree,Akila Mohideen
+2885,Companies worked at,"Sql Server,Cloud Computing,OpenStack, OpenShit, AWS,GCP,Azure, ClouStack,KVM,Hyper-
+V,Citrix Xen Server, ESXi, Chef, Ansible, Jenkins, Maven, Sonar Qube, Nexus, Teamcity, Octopus,
+(3 years)"
+2886,Designation,Master's
+2887,Designation, Infosys OpenStack
+2888,Designation,Project Lead
+2889,Companies worked at,Project Lead
+2890,Designation,Project Lead
+2891,Email Address, Infosys OpenStack
+2892,Companies worked at,Project Lead
+2893,Designation, indeed.com/r/Ahmad-Bardolia/8e2c49ea8e7dcd27
+2894,Name, Infosys OpenStack
+2895,Skills,Project Lead
+2896,Degree,Ahmad Bardolia
+2897,Companies worked at,"
+Front office executive (1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILL
+• Basic Knowledge of Computer operating
+• MS OFFICE (MS excel, Ms Word and Power Point)
+• With typing speed 25 wpm
+PERSONAL SKILL
+• Positive Attitude
+• Good decision making
+• Good communication skills
+• Confident
+• Have zeal to learn new things"
+2898,Designation,Bachelor'
+2899,Email Address, Infosys limited
+2900,Location,Admin assistant
+2901,Name, indeed.com/r/Puran-Mal/357ea77b3b002be6
+2902,Designation,Jaipur
+2903,Companies worked at,Puran Mal
+2904,Companies worked at,Principal System Engineer
+2905,Skills,Infosys
+2906,College Name,Infosys
+2907,Degree,"Networking/Platform/Drivers/Vxworks
+
+ADDITIONAL INFORMATION
+
+Key Strengths
+• Over 15 years of experience in Ethernet Data Communication Technology Ethernet Routing
+Switches, Metro Ethernet Routing Switches, Platform and Wireless
+• Good knowledge of Real Time operating Systems (Vxworks) and Drivers
+• Highly skilled in performing analytical and logic building functions to provide feasible solutions
+to problems
+• Brilliant interpersonal coordination and communication skills
+• Competent at leading, managing and training teams on different aspects of data
+communication systems
+
+Technical Skill Set
+SYSTEMS WORKED ON * Data communication -Multi Service Transport Network Controller Cards,
+Ethernet Routing Switch,"
+2908,College Name,"Board of Technical Education
+"
+2909,Degree,B.E. in Computer Science
+2910,Companies worked at,BITS Pilani
+2911,Companies worked at,"M.S in Software Systems
+"
+2912,Designation,Infosys
+2913,Email Address,"Aricent Technologies
+"
+2914,Location,Principal System Engineer
+2915,Name, indeed.com/r/Sridevi-H/63703b24aaaa54e4
+2916,Skills,Bangalore
+2917,College Name,Sridevi H
+2918,Degree,"EDD, CDD, credit risk assessment, KYC, Banking, credit risk analysis, Customer Handling,
+Portfolio Management, Customer Service
+"
+2919,Email Address,"West Bengal State University
+"
+2920,Designation,Bcom
+2921,Companies worked at,indeed.com/r/Raktim-Podder/32472fc557546084
+2922,Designation,SME
+2923,Email Address,TCS
+2924,Location,SME
+2925,Years of Experience,indeed.com/r/Raktim-Podder/32472fc557546084
+2926,Name,Pune
+2927,Email Address,6+ 
+2928,Skills,Raktim Podder
+2929,Designation,indeed.com/r/Pavithra-M/26f392ec8251143b
+2930,Companies worked at,"ADOBE PHOTOSHOP (Less than 1 year), ANDROID (Less than 1 year), APPLICATION SOFTWARE
+(Less than 1 year), C++ (Less than 1 year), CSS (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical skills:
+
+• Programing Languages: C, C++ and JAVA.
+
+• Databases: MySQL, SQL server (SQLyog)
+
+• Web tools: HTML, CSS.
+
+• Operating Systems: Windows (XP, 8, 8.1, 10), Ubuntu, fedora, Linux."
+2931,Companies worked at,internship
+2932,Designation,Infosys
+2933,Companies worked at,Infosys
+2934,Location,internship
+2935,Email Address,Infosys
+2936,Location,Bengaluru
+2937,Designation,indeed.com/r/Pavithra-M/26f392ec8251143b
+2938,Companies worked at,Bengaluru
+2939,Name,internship
+2940,Skills,Infosys
+2941,Skills,Pavithra M
+2942,Degree,"
+Computer Skills
+@ MS-CIT Course passed with 74 % (Microsoft-word, Excel, and Power-point)
+@ Diploma in Financial Accounting with tally 9 Erp. (87%)"
+2943,College Name,"@ Strong analytical ability @ Good communication skills @ Client relationship management @
+Team player"
+2944,Degree, 2011
+2945,Location,shivaji University
+2946,Email Address,B.Com in Accounts
+2947,Location,Pune
+2948,Companies worked at,"indeed.com/r/shrikant-desai/
+cc6430615ce4d44a"
+2949,Designation,Pune
+2950,Name,infosys
+2951,Skills,accountant 
+2952,College Name,shrikant desai
+2953,Degree,"file systems (2 years), Linux (2 years), maintenance (2 years), scheduling (2 years)"
+2954,Designation,SRIKALAHASTEESWARA INSTITUTE OF TECHNOLOGY
+2955,Location,Bachelor Of Technology in insurance
+2956,Companies worked at,"
+Linux Administrator
+"
+2957,Companies worked at,Bengaluru
+2958,Years of Experience,Infosys
+2959,Email Address,Infosys
+2960,Location,2.1 years
+2961,Companies worked at," indeed.com/r/Kiran-Kumar/7e76e7a9e62e7ee5
+"
+2962,Years of Experience,Bengaluru
+2963,Name,Infosys
+2964,Email Address,2.1 years
+2965,College Name,Kiran Kumar
+2966,Degree,indeed.com/r/Chaban-kumar-Debbarma/bf721c55fb380d19
+2967,Companies worked at,School
+2968,Location,10th
+2969,Email Address,"Microsoft
+"
+2970,Location,Tripura 
+2971,Name,indeed.com/r/Chaban-kumar-Debbarma/bf721c55fb380d19
+2972,Location,Tripura 
+2973,College Name,Chaban kumar Debbarma
+2974,Location,Amravati
+2975,Skills,Ramkrishna krida High
+2976,Designation,Amravati
+2977,Email Address,"Database:
+MS-Access
+Other:
+Hardware & Networking, Core Java, C, C++
+"
+2978,Location,"Microsoft Certified System Engineer
+"
+2979,Designation,"indeed.com/r/Akash-
+Gulhane/8b86faac48268d09"
+2980,Name,Amravati
+2981,Location,"Microsoft Certified System Engineer
+"
+2982,College Name,Akash Gulhane
+2983,Degree,Tiruchchirappalli
+2984,Location,Adi Sankara Polytechnic College 
+2985,College Name,DCE
+2986,Graduation Year,Tiruchchirappalli
+2987,Degree,ST.Joseph college 
+2988,Companies worked at,"2011
+"
+2989,Designation,"Diploma in Challenger info tech
+"
+2990,Companies worked at,Microsoft
+2991,Designation,System Administrator (Server)
+2992,Email Address,Microsoft
+2993,Location,System Administrator (Server)
+2994,Companies worked at," indeed.com/r/K-
+Siddharth/0023411a049a1441"
+2995,Designation,Tiruchchirappalli
+2996,Name,Microsoft
+2997,College Name,System Administrator (Server)
+2998,Degree,K. Siddharth
+2999,College Name,"
+Indraprastha Public School"
+3000,Degree,C.B.S.E
+3001,Graduation Year,"Uttrakhand Technical University
+"
+3002,College Name,B.TECH in Computer Science Engineering
+3003,Degree,2012
+3004,Designation,"
+Indraprastha Public School"
+3005,Location,C.B.S.E
+3006,Designation,Microsoft technology Associate (MTA)
+3007,Name,Muzaffarnagar
+3008,Email Address,Microsoft technology Associate (MTA)
+3009,Location,Shivam Rathi
+3010,Companies worked at,indeed.com/r/Nitin-Verma/b9e8520147f728d2
+3011,Location,Pune
+3012,Degree,Pune University
+3013,Email Address,Pune
+3014,Location,Bachelor of Engineering in EnTC
+3015,Designation,indeed.com/r/Nitin-Verma/b9e8520147f728d2
+3016,Name,Pune
+3017,College Name,Assisting Microsoft Partners - Exchange Online and Office
+3018,Degree,Nitin Verma
+3019,College Name,Acharya Nagarjuna University
+3020,Degree,MBA
+3021,Companies worked at,Acharya Nagarjuna University
+3022,Designation,Certificate in MSC CHEMISTRY
+3023,Email Address,"Microsoft
+
+Infosys Limited "
+3024,Designation,"specialist
+
+Technology Process"
+3025,Name,"indeed.com/r/Venkateswara-D/18b373e3b03b371f
+"
+3026,Skills,"specialist - Technology Process
+"
+3027,College Name,Venkateswara D
+3028,Degree,"asp.net, dynamics ax technical consultant, sql, x++
+"
+3029,Designation,Sreenidhi Institute of science and technology
+3030,Designation,BE in Computer science
+3031,Companies worked at,"dynamics AX Technical consultant
+"
+3032,College Name,Microsoft dynamics AX Technical consultant
+3033,Designation,Microsoft
+3034,Designation,"Indian Terrain Fashions Limited -
+"
+3035,Designation,Microsoft dynamics AX Technical consultant
+3036,Companies worked at,"dynamics AX Technical consultant
+"
+3037,Name,Microsoft dynamics AX Technical consultant
+3038,Skills,Microsoft
+3039,College Name,Shivasai Mantri
+3040,Degree,"Microsoft DPM, EMC Legato Networker & Symantec Backup Exec"
+3041,Companies worked at,"Bishop Ambrose College, Bharathiar University"
+3042,Degree,"B.Sc in Computer Science
+"
+3043,Designation,BITS Pilani
+3044,Companies worked at,"MS in Systems Engineering in Systems Engineering
+"
+3045,Designation,Backup Administrator
+3046,Designation,MICROSOFT
+3047,Designation,Backup Administrator
+3048,Designation,Backup Administrator
+3049,Email Address,Backup Administrator
+3050,Location,Backup Administrator
+3051,Designation,"indeed.com/r/Prasanna-
+Ignatius/1404633e9449f641"
+3052,Companies worked at,Chennai
+3053,Name,Backup Administrator
+3054,Location,MICROSOFT
+3055,Email Address,Prasanna Ignatius
+3056,Location,Dhule
+3057,College Name,indeed.com/r/Pankaj-Bhosale/2d6f2e970b9a7ff6
+3058,Degree,Dhule
+3059,Graduation Year,Palesh Commerce College
+3060,College Name,M.D.
+3061,Degree,2014
+3062,Companies worked at,RCPET's I.M.R.D College
+3063,Designation,MCA
+3064,Designation,Softzel Technologies Pvt. Ltd
+3065,Designation,Jr. Developer
+3066,Email Address,Microsoft SQL-SERVER
+3067,Location,Microsoft SQL-SERVER
+3068,Designation,indeed.com/r/Pankaj-Bhosale/2d6f2e970b9a7ff6
+3069,Name,Dhule
+3070,Email Address,Microsoft SQL-SERVER
+3071,Skills,Pankaj Bhosale
+3072,Companies worked at,indeed.com/r/Vinay-Singhal/c15261079a9b5ae7
+3073,Designation,"❖ Smart Working.
+❖ Fast and keen learner.
+❖ Works well within a team and also independently.
+❖ Flexible and high adaptability to new approaches, people and environments.
+❖ Professional approach and positive attitude.
+❖ Hard working with abstract thinking.
+❖ Good personal skills like photography & software issues.
+❖ Good Communications Skills"
+3074,Email Address,Convergys
+3075,Location,Customer Care Associate Microsoft
+3076,Name,indeed.com/r/Vinay-Singhal/c15261079a9b5ae7
+3077,Email Address,New Delhi
+3078,Name,Vinay Singhal
+3079,Skills,indeed.com/r/Pawan-Nag/e14493f28cb72022
+3080,Degree,Pawan Nag
+3081,Designation,Operating Systems:
+3082,Designation,AMIE sec A
+3083,Email Address,Certified System Engineer
+3084,Location,Microsoft
+3085,Location,indeed.com/r/Pawan-Nag/e14493f28cb72022
+3086,Designation,Delhi
+3087,Designation,Delhi
+3088,Name,Certified System Engineer
+3089,Skills,Microsoft
+3090,Location,Pawan Nag
+3091,College Name,"SQL (1 year), HTML (Less than 1 year), INCIDENT MANAGEMENT (Less than 1 year), IT
+INFRASTRUCTURE (Less than 1 year), MS OFFICE (Less than 1 year)"
+3092,Degree,Ghaziabad
+3093,Email Address,"Indraprastha Engineering College, Uttar Pradesh Technical University"
+3094,Location,"
+Bachelor of Technology in Computer Science Engineering"
+3095,Companies worked at,"indeed.com/r/Shivam-
+Sharma/8e4755830666f3b6"
+3096,Designation,Ghaziabad
+3097,Name,"HCL Technologies
+"
+3098,Skills,L1 Analyst in Microsoft project 
+3099,Companies worked at,Shivam Sharma
+3100,Degree,"TALLY MICROSOFT DYNAMIC OPARATER MICIT
+"
+3101,Designation,PUNE UNIVERCITY
+3102,Location,"B.COM
+"
+3103,Companies worked at,Microsoft Dainamic Software Billing Operator
+3104,Designation,Pune
+3105,Name,"Shreenath Engence
+(COFFEEDAY)
+"
+3106,Skills,Microsoft Dainamic Software Billing Operator
+3107,Skills,Gaikwad Dilip
+3108,College Name,"Computer: Proficient in Windows, Word, Excel, Outlook, PowerPoint Language: Fluent in verbal
+and written English, Hindi and Bengali"
+3109,Degree,"EXCEL (Less than 1 year), OUTLOOK (Less than 1 year), POWERPOINT (Less than 1 year),
+WORD (Less than 1 year)"
+3110,College Name,St. Paul's Academy
+3111,College Name,C.B.S.E
+3112,Degree,Army Public School 
+3113,Degree,Barrackpore Rastraguru Surendranath College 
+3114,College Name,West Bengal State
+3115,Degree,"
+B.Sc"
+3116,Degree,Ballygunge Science College 
+3117,Degree,M.Sc in biology
+3118,Email Address,West Bengal State
+3119,Name,Engineering
+3120,Companies worked at," indeed.com/r/Moumita-Mitra/d63c4dc9837860db
+"
+3121,Companies worked at,Moumita Mitra
+3122,Skills,Shell 
+3123,Degree,Shell 
+3124,Degree,"SAP HANA (4 years), SAP UI5/Fiori (4 years), AngularJs (Less than 1 year), Web Development
+(8 years), Asp.Net (5 years), C# (4 years), SQL Server (3 years), HTML5 (5 years), Javascript (6
+years), CSS3 (6 years), Software Solution Design (2 years), VBA (2 years), SAP BI (2 years)"
+3125,Graduation Year,"'O' Level in Computer Application
+"
+3126,College Name,'A' Level in Computer Application
+3127,Degree,2005
+3128,Graduation Year,University of Calcutta
+3129,College Name,Bachelor of Arts
+3130,Degree,2013
+3131,Companies worked at,Sikkim Manipal University
+3132,Email Address,MBA in Information Technology
+3133,Graduation Year,Shell 
+3134,Graduation Year,indeed.com/r/Suman-Biswas/63db95fe3ae14910
+3135,Designation,2013
+3136,Companies worked at,2013
+3137,Designation,Software Engineer
+3138,Email Address,Shell 
+3139,Location,Software Engineer
+3140,Companies worked at,indeed.com/r/Suman-Biswas/63db95fe3ae14910
+3141,Designation,Bengaluru
+3142,Name," Royal Dutch Shell
+"
+3143,College Name,"SAP UI5 Lead, Native HANA Developer "
+3144,Degree,Suman Biswas
+3145,Location,Government Engineering College Bhuj
+3146,Designation,BE in Environmental Engineering
+3147,Name,Jamnagar
+3148,Location,Student
+3149,Location,Mansi Thanki
+3150,Location,Delhi
+3151,Location,Delhi
+3152,Location,Delhi
+3153,Skills,Delhi
+3154,Designation,Delhi
+3155,Designation,"DATA BACKUP (1 year), EXCHANGE (1 year), LAN (1 year), MAINTENANCE (1 year), SAP (1 year)"
+3156,Email Address,Microsoft Azure (Basic Management)
+3157,Location,Microsoft Azure (Basic Management)
+3158,Location,"indeed.com/r/Anil-Kumar/96983a9dd7222ae5
+"
+3159,Designation,Delhi
+3160,Name,Delhi
+3161,Skills,Microsoft Azure (Basic Management)
+3162,Designation,Anil Kumar
+3163,Email Address,"AUDITING (Less than 1 year), CFA (Less than 1 year), DERIVATIVES (Less than 1 year),
+FINANCIAL ANALYST (Less than 1 year), FINANCIAL STATEMENT ANALYSIS (Less than 1 year)
+"
+3164,Location,Microsoft Office Suite - Expert
+3165,Designation,"indeed.com/r/Siddharth-
+Choudhary/19d56a964e37fa1a"
+3166,Name,Hyderabad
+3167,Skills,Microsoft Office Suite - Expert
+3168,Graduation Year,Siddharth Choudhary
+3169,College Name,"Excel (10+ years), Operations (7 years), Project management (5 years)"
+3170,Degree,2002
+3171,Years of Experience,Ramakrishna College
+3172,College Name,"B.Sc. in Biochemistry in Biochemistry
+"
+3173,Degree,2004
+3174,Years of Experience,Bharathiar University
+3175,Location,Master of Science in Bio Informatics in Bio Informatics
+3176,Companies worked at,2004
+3177,Location,Bengaluru
+3178,Companies worked at,Infosys BPO Ltd
+3179,Location,Bengaluru
+3180,Companies worked at,Infosys BPO Ltd
+3181,Location,Bengaluru
+3182,Companies worked at,Infosys BPO Ltd
+3183,Location,Bengaluru
+3184,Companies worked at,Infosys BPO Ltd
+3185,Designation,Bengaluru
+3186,Location,Infosys BPO Ltd
+3187,Companies worked at,PMO
+3188,Designation,Bengaluru
+3189,Location,Infosys BPO Ltd
+3190,Companies worked at,PMO
+3191,Designation,Bengaluru
+3192,Companies worked at,Infosys BPO Ltd
+3193,Designation,PMO
+3194,Email Address,Infosys BPO Ltd
+3195,Location,PMO
+3196,Designation," indeed.com/r/Valarmathi-Dhandapani/
+a2b3eb340068764d"
+3197,Designation,Bengaluru
+3198,Name,PMO
+3199,Skills,"Investment Banking Operations/PMO
+"
+3200,College Name,Valarmathi Dhandapani
+3201,Degree,"Splunk, Network Security, Arc sight (2 years), SIEM (2 years), McAfee ESM (1 year)"
+3202,Designation,Jawaharlal Nehru Technological University 
+3203,Companies worked at,"B- Tech
+"
+3204,Designation,Security Analyst
+3205,Name,Infosys - Career Contour
