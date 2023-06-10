@@ -92,3 +92,65 @@ Created final csv(block 9):
 
 ## By Nilsu
 
+Importing libraries:
+- The code imports the necessary libraries for data manipulation and analysis (numpy, pandas), regular expressions (re), string operations (string), stopwords and tokenization (nltk.corpus, nltk.tokenize), lemmatization (nltk.corpus, nltk.stem), and part-of-speech tagging (nltk).
+
+Data preprocessing:
+- The code preprocesses the text data by performing the following steps:
+    - Lowercasing the text.
+    - LRemoving newlines.
+    - LRemoving special characters.
+    - LRemoving extra whitespaces, dashes, and dots.
+    - LTokenizing the text into words.
+    - Converting digits to words.
+    - LRemoving stopwords.
+    - LJoining the tokens back into a string.
+
+- Reading and saving data:
+    - The code reads a JSON file into a pandas DataFrame.
+    - The DataFrame is then saved to a CSV file.
+
+- Lemmatization and part-of-speech tagging:
+    - The code applies lemmatization to the 'content' column in the DataFrame by tokenizing the text, lemmatizing each token based on its part-of-speech tag, and joining the lemmatized tokens back into a single string.
+    - It also performs part-of-speech tagging on the lemmatized 'content' column and creates a new column with the POS tags.
+
+- Spacy part-of-speech tagging:
+    - The code uses the Spacy library to process the text and assign part-of-speech tags to each word in the 'content' column.
+    - It defines a function that prints the token text and its corresponding part-of-speech tag using the Spacy language model.
+
+### By Sukriti
+
+- **Importing libraries:**
+The code is importing a number of Python libraries, including:
+
+    - numpy: A library for scientific computing
+    - pandas: A library for data analysis
+    - re: A library for regular expressions
+    - string: A library for working with strings
+    - contractions: A library for expanding contractions
+    - spacy: A library for natural language processing
+    - nltk: A library for natural language processing
+    - stopwords: A library for stopwords
+    - warnings library is also imported, and the warnings.filterwarnings() function is used to ignore warnings. This is often done to prevent warnings from cluttering up the output of a program.
+
+The two columns *content* and *annotation* provided in the json have been handled separately.
+
+**Content**
+1. The clean_text() function converts text to lowercase, expands contractions, removes newlines, urls, special chars & digits (except @ and .), and removes extra whitespace. All the values are stored in a column called 'cleaned_content'.
+
+2. The tokenization() function tokenizes text using spaCy, a natural language processing library. It loads the English language model, processes the text, and extracts the tokens from the processed document. All the values are stored in a column called 'tokenized_content'.
+
+3. The code first creates a set of stopwords, which are words that are often ignored when processing text. It then creates a list of all the words in the tokenized_content column of the df dataframe. Finally, it iterates over the list of words and adds any words that are not stopwords and not punctuation to a new list called totalWords.
+
+4. The code uses the nltk.FreqDist() function to create a frequency distribution of the words in the totalWords list. This function counts the number of times each word appears in the list and returns a dictionary that maps each word to its frequency.
+
+5. The code uses the wordfreqdist.most_common() function to get the 20 most common words in the frequency distribution. This function returns a list of tuples, where each tuple contains a word and its frequency.
+
+**Annotation**
+
+1. The extract_text_from_label is a function that iterates over the data list and extracts the text from the labels. It then creates a dictionary that maps each label to a list of texts. The dictionary is returned. All the values are stored in a column called 'annotation_info_extraction'.
+
+2. The clean_annotation is a function that iterates over the dictionary dictionary and cleans the annotations. It then returns a new dictionary with the cleaned annotations. The dictionary is returned. All the values are stored in a column called 'annotation_info_extraction'.
+
+Then, the data is saved in a csv format with the file name "cleaned_df".
+
