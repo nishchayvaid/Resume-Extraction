@@ -19,7 +19,7 @@ Group Name: TeamNLP
 Resumes contain surfeit information that is not relevant for the HR/authority, and they have to manually process the resumes to shortlist the promising candidates for them. And, thus making the shortlisting task a herculean task for HR. By making use of the NER(Named Entity Recognition) model of NLP this problem can be solved by finding and classifying the entities that are present in each resume into predefined classes such as person name, college name, academics information, relevant experiences, skill set, etc.
 
 ## GitHub Link Repo
-https://github.com/nishchayvaid/Resume-Extraction/tree/develop
+https://github.com/nishchayvaid/Resume-Extraction/blob/main/Resources/Week9/Week9_Deliverables.pdf
 
 ## Data Cleansing & Transformation
 
