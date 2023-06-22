@@ -74,3 +74,8 @@ To overcome problems like NA values and outliers in the dataset, you can apply v
 3. Balancing Classes: In the case of non-uniformity in the number of columns and rows for each label, you can balance the classes to ensure equal representation and improve the overall performance of the model. Techniques like undersampling (removing samples from the majority class), oversampling (replicating or generating new samples for the minority class), or a combination of both (SMOTE - Synthetic Minority Over-sampling Technique) can be employed to achieve class balance.
 
 4. Other NLP Techniques: Text cleaning and preprocessing techniques like removing stop words, handling misspelled words, or using lemmatization/stemming can enhance the quality and consistency of the data.
+
+
+
+ 
+
